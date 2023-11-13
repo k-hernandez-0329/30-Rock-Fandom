@@ -1,0 +1,4085 @@
+
+{ "seasons": [
+    {
+      "id": 2163,
+      "url": "https://www.tvmaze.com/seasons/2163/30-rock-season-1",
+      "number": 1,
+      "name": "",
+      "episodeOrder": 21,
+      "premiereDate": "2006-10-11",
+      "endDate": "2007-04-26",
+      "network": {
+        "id": 1,
+        "name": "NBC",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://www.nbc.com/"
+      },
+      "webChannel": null,
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/27/68703.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/27/68703.jpg"
+      },
+      "summary": "<p>Jack Donaghy, the \"Head of East Coast Television and Microwave Oven Programming\" at GE, is transferred to work at the NBC headquarters, 30 Rockefeller Plaza, and retool the late night sketch comedy series The Girlie Show. The show's cast and crew are outraged by this, especially head writer Liz Lemon and main actress Jenna Maroney. Jack proceeds to wreak havoc on The Girlie Show, forcing Liz to hire off-the-wall movie star Tracy Jordan.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/seasons/2163"
+        }
+      }
+    },
+    {
+      "id": 2164,
+      "url": "https://www.tvmaze.com/seasons/2164/30-rock-season-2",
+      "number": 2,
+      "name": "",
+      "episodeOrder": 15,
+      "premiereDate": "2007-10-04",
+      "endDate": "2008-05-08",
+      "network": {
+        "id": 1,
+        "name": "NBC",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://www.nbc.com/"
+      },
+      "webChannel": null,
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/399/997687.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/399/997687.jpg"
+      },
+      "summary": "<p>Liz and the crew of <i>TGS</i> returns from summer hiatus to many problems.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/seasons/2164"
+        }
+      }
+    },
+    {
+      "id": 2165,
+      "url": "https://www.tvmaze.com/seasons/2165/30-rock-season-3",
+      "number": 3,
+      "name": "",
+      "episodeOrder": 22,
+      "premiereDate": "2008-10-30",
+      "endDate": "2009-05-14",
+      "network": {
+        "id": 1,
+        "name": "NBC",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://www.nbc.com/"
+      },
+      "webChannel": null,
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/399/997688.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/399/997688.jpg"
+      },
+      "summary": "<p>Jack tries to get his job - and his promotion - back. Meanwhile, Liz tries to adopt a baby, while Tracy enjoys the success of his pornographic videogame as Jenna sues him for not properly compensating her.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/seasons/2165"
+        }
+      }
+    },
+    {
+      "id": 2166,
+      "url": "https://www.tvmaze.com/seasons/2166/30-rock-season-4",
+      "number": 4,
+      "name": "",
+      "episodeOrder": 22,
+      "premiereDate": "2009-10-15",
+      "endDate": "2010-05-20",
+      "network": {
+        "id": 1,
+        "name": "NBC",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://www.nbc.com/"
+      },
+      "webChannel": null,
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/399/997689.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/399/997689.jpg"
+      },
+      "summary": "<p>Jack requests that Liz cast a new actor for TGS, and Liz's subsequent search for the perfect comedian, much to the dismay of Jenna and Tracy, who fear losing their spotlight. The later half of the season focuses on two complementary story arcs: Jack's inability to choose between his two girlfriends, and Liz's inability to find a boyfriend to live up to her expectations and Jenna's relationship with a Jenna Maroney impersonator.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/seasons/2166"
+        }
+      }
+    },
+    {
+      "id": 2167,
+      "url": "https://www.tvmaze.com/seasons/2167/30-rock-season-5",
+      "number": 5,
+      "name": "",
+      "episodeOrder": 23,
+      "premiereDate": "2010-09-23",
+      "endDate": "2011-05-05",
+      "network": {
+        "id": 1,
+        "name": "NBC",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://www.nbc.com/"
+      },
+      "webChannel": null,
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/399/997690.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/399/997690.jpg"
+      },
+      "summary": "<p>Season 5 focuses on Liz Lemon's continuing relationship with Carol Burnett, Jack's start into fatherhood with fiancée Avery, struggling with the merger of NBCUniversal with Kabletown, Tracy's foray into getting an EGOT, and Kenneth's attempt to get back to NBC.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/seasons/2167"
+        }
+      }
+    },
+    {
+      "id": 2168,
+      "url": "https://www.tvmaze.com/seasons/2168/30-rock-season-6",
+      "number": 6,
+      "name": "",
+      "episodeOrder": 22,
+      "premiereDate": "2012-01-12",
+      "endDate": "2012-05-17",
+      "network": {
+        "id": 1,
+        "name": "NBC",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://www.nbc.com/"
+      },
+      "webChannel": null,
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/399/997691.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/399/997691.jpg"
+      },
+      "summary": "<p>Season six finds Liz emotionally maturing while in a new relationship; Jack continues to attempt to recover his wife from North Korea and find his identity at Kabletown. Kenneth moves up (and later down) the corporate ladder, and Jenna reaches a new level of fame thanks to being a judge on a reality show, and considers settling down with boyfriend Paul.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/seasons/2168"
+        }
+      }
+    },
+    {
+      "id": 2169,
+      "url": "https://www.tvmaze.com/seasons/2169/30-rock-season-7",
+      "number": 7,
+      "name": "",
+      "episodeOrder": 13,
+      "premiereDate": "2012-10-04",
+      "endDate": "2020-07-16",
+      "network": {
+        "id": 1,
+        "name": "NBC",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://www.nbc.com/"
+      },
+      "webChannel": null,
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/399/997692.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/399/997692.jpg"
+      },
+      "summary": "<p>Season 7 continues to develop the relationship between Liz and Criss, as the pair try for children and consider getting married. Meanwhile, Jack attempts to improve his future prospects at the company, first by trying to \"tank\" NBC and convince Kabletown CEO Hank Hooper to sell it, and later by plotting to discredit his granddaughter and future CEO, Kaylee Hooper.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/seasons/2169"
+        }
+      }
+      
+    }
+],
+"episodes": 
+    [
+        {
+          "id": 49150,
+          "url": "https://www.tvmaze.com/episodes/49150/30-rock-1x01-pilot",
+          "name": "Pilot",
+          "season": 1,
+          "number": 1,
+          "type": "regular",
+          "airdate": "2006-10-11",
+          "airtime": "20:00",
+          "airstamp": "2006-10-12T00:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.9
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/507618.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/507618.jpg"
+          },
+          "summary": "<p>Liz Lemon is called upstairs to meet the new network exec, Jack Donaghy, who instructs her to hire movie star Tracy Jordan to draw a young male audience to 'The Girlie Show'.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49150"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49151,
+          "url": "https://www.tvmaze.com/episodes/49151/30-rock-1x02-the-aftermath",
+          "name": "The Aftermath",
+          "season": 1,
+          "number": 2,
+          "type": "regular",
+          "airdate": "2006-10-18",
+          "airtime": "20:00",
+          "airstamp": "2006-10-19T00:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.4
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/507620.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/507620.jpg"
+          },
+          "summary": "<p>The crew of The Girlie Show is skeptical of having Tracy Jordan join the cast, especially when the show is retitled 'TGS Tracy Jordan'. Feeling everybody blames them, Liz and Tracy decide to throw a party on a yacht.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49151"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49152,
+          "url": "https://www.tvmaze.com/episodes/49152/30-rock-1x03-blind-date",
+          "name": "Blind Date",
+          "season": 1,
+          "number": 3,
+          "type": "regular",
+          "airdate": "2006-10-25",
+          "airtime": "20:00",
+          "airstamp": "2006-10-26T00:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.4
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/507621.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/507621.jpg"
+          },
+          "summary": "<p>Cupid has a new rival when Jack insists on sending Liz on a blind date with his out of town friend, Thomas.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49152"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49153,
+          "url": "https://www.tvmaze.com/episodes/49153/30-rock-1x04-jack-the-writer",
+          "name": "Jack the Writer",
+          "season": 1,
+          "number": 4,
+          "type": "regular",
+          "airdate": "2006-11-01",
+          "airtime": "20:00",
+          "airstamp": "2006-11-02T01:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.9
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/507623.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/507623.jpg"
+          },
+          "summary": "<p>Lines are drawn when Jack decides to sit in on the writers' room and Kenneth the page tries to deal with Tracy's difficult demands.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49153"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49154,
+          "url": "https://www.tvmaze.com/episodes/49154/30-rock-1x05-jack-tor",
+          "name": "Jack-Tor",
+          "season": 1,
+          "number": 5,
+          "type": "regular",
+          "airdate": "2006-11-16",
+          "airtime": "21:20",
+          "airstamp": "2006-11-17T02:20:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.9
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/507624.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/507624.jpg"
+          },
+          "summary": "<p>Jack is determined to act in a sketch on the show. Liz suspects Tracy may be illiterate.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49154"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49155,
+          "url": "https://www.tvmaze.com/episodes/49155/30-rock-1x06-jack-meets-dennis",
+          "name": "Jack Meets Dennis",
+          "season": 1,
+          "number": 6,
+          "type": "regular",
+          "airdate": "2006-11-30",
+          "airtime": "21:30",
+          "airstamp": "2006-12-01T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.1
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/507626.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/507626.jpg"
+          },
+          "summary": "<p>Liz reconnects with her ex-boyfriend Dennis, the last remaining pager salesman in New York. Meanwhile, Jenna and Tracy try to \"enhance\" their appearances for career reasons.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49155"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49156,
+          "url": "https://www.tvmaze.com/episodes/49156/30-rock-1x07-tracy-does-conan",
+          "name": "Tracy Does Conan",
+          "season": 1,
+          "number": 7,
+          "type": "regular",
+          "airdate": "2006-12-07",
+          "airtime": "21:30",
+          "airstamp": "2006-12-08T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.2
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/507627.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/507627.jpg"
+          },
+          "summary": "<p>It's a star showdown when a dazed and confused Tracy bumps Jenna from her scheduled appearance on Late Night with Conan O'brien.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49156"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49157,
+          "url": "https://www.tvmaze.com/episodes/49157/30-rock-1x08-the-break-up",
+          "name": "The Break-Up",
+          "season": 1,
+          "number": 8,
+          "type": "regular",
+          "airdate": "2006-12-14",
+          "airtime": "21:30",
+          "airstamp": "2006-12-15T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.1
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/507628.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/507628.jpg"
+          },
+          "summary": "<p>At the urging of everyone, Liz finally breaks up with her beeper salesman boyfriend, but the path back to \"single and loving it\" proves to be filled with unforeseen obstacles.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49157"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49158,
+          "url": "https://www.tvmaze.com/episodes/49158/30-rock-1x09-the-baby-show",
+          "name": "The Baby Show",
+          "season": 1,
+          "number": 9,
+          "type": "regular",
+          "airdate": "2007-01-04",
+          "airtime": "21:30",
+          "airstamp": "2007-01-05T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.4
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/507629.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/507629.jpg"
+          },
+          "summary": "<p>There are mommy issues on the set when Jenna tells everyone that Liz wants to get pregnant, and Jack gives her some very personal parental advice.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49158"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49159,
+          "url": "https://www.tvmaze.com/episodes/49159/30-rock-1x10-the-rural-juror",
+          "name": "The Rural Juror",
+          "season": 1,
+          "number": 10,
+          "type": "regular",
+          "airdate": "2007-01-11",
+          "airtime": "21:30",
+          "airstamp": "2007-01-12T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.4
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/507630.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/507630.jpg"
+          },
+          "summary": "<p>Jenna can't wait for her new movie to open, but Liz won't tell her what she really thinks of her performance.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49159"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49160,
+          "url": "https://www.tvmaze.com/episodes/49160/30-rock-1x11-the-head-and-the-hair",
+          "name": "The Head and the Hair",
+          "season": 1,
+          "number": 11,
+          "type": "regular",
+          "airdate": "2007-01-18",
+          "airtime": "21:30",
+          "airstamp": "2007-01-19T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.7
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/507631.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/507631.jpg"
+          },
+          "summary": "<p>There are some new power players around when Jack and Kenneth the page switch roles for the day and Liz finds herself clicking with a gorgeous hunk.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49160"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49161,
+          "url": "https://www.tvmaze.com/episodes/49161/30-rock-1x12-black-tie",
+          "name": "Black Tie",
+          "season": 1,
+          "number": 12,
+          "type": "regular",
+          "airdate": "2007-02-01",
+          "airtime": "21:30",
+          "airstamp": "2007-02-02T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.6
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/507632.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/507632.jpg"
+          },
+          "summary": "<p>Liz, Jack and Jenna rub elbows with the upper crust at a prince's (Paul Reubens) birthday party. But the end of the evening finds Liz lying low after Jack's ex-wife (Isabella Rossellini) shows up.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49161"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49162,
+          "url": "https://www.tvmaze.com/episodes/49162/30-rock-1x13-up-all-night",
+          "name": "Up All Night",
+          "season": 1,
+          "number": 13,
+          "type": "regular",
+          "airdate": "2007-02-08",
+          "airtime": "21:30",
+          "airstamp": "2007-02-09T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.3
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/507633.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/507633.jpg"
+          },
+          "summary": "<p>Valentine's Day is much more than candy and flowers when Jack celebrates the finalization of his divorce and the writers are forced to pull an all-nighter.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49162"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49163,
+          "url": "https://www.tvmaze.com/episodes/49163/30-rock-1x14-the-c-word",
+          "name": "The \"C\" Word",
+          "season": 1,
+          "number": 14,
+          "type": "regular",
+          "airdate": "2007-02-15",
+          "airtime": "21:30",
+          "airstamp": "2007-02-16T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.5
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/507634.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/507634.jpg"
+          },
+          "summary": "<p>Being the boss isn't all it's cracked up to be when Liz overhears the writers discussing her management style and Jack tries to impress CEO Don Geiss (Rip Torn) at a charity golf tournament by bringing Tracy along.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49163"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49164,
+          "url": "https://www.tvmaze.com/episodes/49164/30-rock-1x15-hard-ball",
+          "name": "Hard Ball",
+          "season": 1,
+          "number": 15,
+          "type": "regular",
+          "airdate": "2007-02-22",
+          "airtime": "21:30",
+          "airstamp": "2007-02-23T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.8
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/507635.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/507635.jpg"
+          },
+          "summary": "<p>It's negotiation time, and Jack plans to teach Liz a thing or two about how to handle Josh's new contract. Jenna makes several big publicity mistakes.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49164"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49165,
+          "url": "https://www.tvmaze.com/episodes/49165/30-rock-1x16-the-source-awards",
+          "name": "The Source Awards",
+          "season": 1,
+          "number": 16,
+          "type": "regular",
+          "airdate": "2007-03-01",
+          "airtime": "21:30",
+          "airstamp": "2007-03-02T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.3
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/507636.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/507636.jpg"
+          },
+          "summary": "<p>It's lights, camera, aggravation when Liz finds herself locked in a relationship with Tracy's determined new manager and Jack forces Tracy to host The Source Awards.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49165"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49166,
+          "url": "https://www.tvmaze.com/episodes/49166/30-rock-1x17-the-fighting-irish",
+          "name": "The Fighting Irish",
+          "season": 1,
+          "number": 17,
+          "type": "regular",
+          "airdate": "2007-03-08",
+          "airtime": "21:30",
+          "airstamp": "2007-03-09T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.6
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/507637.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/507637.jpg"
+          },
+          "summary": "<p>Family matters move front and centre when Jack is reunited with his down-and-out brother (Nathan Lane) and Liz has a tough time making staff cutbacks.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49166"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49167,
+          "url": "https://www.tvmaze.com/episodes/49167/30-rock-1x18-fireworks",
+          "name": "Fireworks",
+          "season": 1,
+          "number": 18,
+          "type": "regular",
+          "airdate": "2007-04-05",
+          "airtime": "20:42",
+          "airstamp": "2007-04-06T00:42:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.5
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/507638.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/507638.jpg"
+          },
+          "summary": "<p>Sparks are flying when Jack uses Kenneth the page to thwart an aggressive west coast NBC exec (Will Arnett) and Liz follows her crush to an AA meeting.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49167"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49168,
+          "url": "https://www.tvmaze.com/episodes/49168/30-rock-1x19-corporate-crush",
+          "name": "Corporate Crush",
+          "season": 1,
+          "number": 19,
+          "type": "regular",
+          "airdate": "2007-04-12",
+          "airtime": "21:00",
+          "airstamp": "2007-04-13T01:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.5
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/507639.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/507639.jpg"
+          },
+          "summary": "<p>Love is in the air, but Liz is concerned when Jack takes an overwhelming interest in her new boyfriend (Jason Sudeikis).</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49168"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49169,
+          "url": "https://www.tvmaze.com/episodes/49169/30-rock-1x20-cleveland",
+          "name": "Cleveland",
+          "season": 1,
+          "number": 20,
+          "type": "regular",
+          "airdate": "2007-04-19",
+          "airtime": "21:00",
+          "airstamp": "2007-04-20T01:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.7
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/507640.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/507640.jpg"
+          },
+          "summary": "<p>There are certainly no sparks when Jack asks Liz to take his fiancee, Phoebe (Emily Mortimer), out for a ladies' lunch. But Liz finds a lot more to like when her boyfriend takes her to the great city of Cleveland.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49169"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49170,
+          "url": "https://www.tvmaze.com/episodes/49170/30-rock-1x21-hiatus",
+          "name": "Hiatus",
+          "season": 1,
+          "number": 21,
+          "type": "regular",
+          "airdate": "2007-04-26",
+          "airtime": "21:00",
+          "airstamp": "2007-04-27T01:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.9
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/507641.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/507641.jpg"
+          },
+          "summary": "<p>Tracy, on the run from the Black Crusaders, goes into hiding with Kenneth's cousin Jessie (Sean Hayes), and the pressure's on Liz to make the show work after Jack's mother (Elaine Stritch) arrives and Jack ends up in the hospital.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49170"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49171,
+          "url": "https://www.tvmaze.com/episodes/49171/30-rock-2x01-seinfeld-vision",
+          "name": "Seinfeld Vision",
+          "season": 2,
+          "number": 1,
+          "type": "regular",
+          "airdate": "2007-10-04",
+          "airtime": "20:30",
+          "airstamp": "2007-10-05T00:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 9.1
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508223.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508223.jpg"
+          },
+          "summary": "<p>As the cast and crew of TGS with Tracy Jordan returns for a new season, Liz is excited to see Jack again. However, her excitement quickly fades as Jack insists that Liz is still not over Floyd. Meanwhile, Jerry Seinfeld shows up at Jack's office in an upset mood after Jack announces his newest plan. Finally, Kenneth becomes Tracy's office wife when Tracy separates from his wife and Jenna returns to set a whole lot heavier now that she has been involved in Mystic Pizza: The Musical!.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49171"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49172,
+          "url": "https://www.tvmaze.com/episodes/49172/30-rock-2x02-jack-gets-in-the-game",
+          "name": "Jack Gets in the Game",
+          "season": 2,
+          "number": 2,
+          "type": "regular",
+          "airdate": "2007-10-11",
+          "airtime": "20:30",
+          "airstamp": "2007-10-12T00:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.3
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508224.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508224.jpg"
+          },
+          "summary": "<p>When Jack discovers that his boss is retiring, he decides to get in the competition for his position. Meanwhile, Jenna begins to enjoy her fame for being fat and along with Jack encourages Liz to get her act together. Finally, Kenneth makes it his mission to get Tracy and Angie back together.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49172"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49173,
+          "url": "https://www.tvmaze.com/episodes/49173/30-rock-2x03-the-collection",
+          "name": "The Collection",
+          "season": 2,
+          "number": 3,
+          "type": "regular",
+          "airdate": "2007-10-18",
+          "airtime": "20:30",
+          "airstamp": "2007-10-19T00:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.1
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508225.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508225.jpg"
+          },
+          "summary": "<p>Jack hires his own private investigator to lead GE in the wrong direction so that they will not be able to find any dirt on him that might put him in a compromising position. However, when he is asked to give up his cookie jar collection, Jack finds the task too much of a challenge. Meanwhile, Angie announces that she will follow Tracy at all times to keep him in line, which Liz believes to be good until she covers for Tracy and gets on Angie's bad side. Finally, Jenna starts to worry once she starts to lose all the weight she gained over the summer and her popularity begins to hang on the line.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49173"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49174,
+          "url": "https://www.tvmaze.com/episodes/49174/30-rock-2x04-rosemarys-baby",
+          "name": "Rosemary's Baby",
+          "season": 2,
+          "number": 4,
+          "type": "regular",
+          "airdate": "2007-10-25",
+          "airtime": "20:30",
+          "airstamp": "2007-10-26T00:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.6
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508226.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508226.jpg"
+          },
+          "summary": "<p>When Liz meets her idol, Rosemary Howard, she invites her to be a guest writer on the show.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49174"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49175,
+          "url": "https://www.tvmaze.com/episodes/49175/30-rock-2x05-greenzo",
+          "name": "Greenzo",
+          "season": 2,
+          "number": 5,
+          "type": "regular",
+          "airdate": "2007-11-08",
+          "airtime": "20:30",
+          "airstamp": "2007-11-09T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.6
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508227.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508227.jpg"
+          },
+          "summary": "<p>It's time for Kenneth's annual house party, but he may be the only one excited about it. The soiree has only been attended by Liz in the past, so in order to get a better turnout Tracy spreads rumors that ultimately get out of hand. Meanwhile, Jack deals with NBC's new environmentally-friendly mascot, whose new-found stardom goes to his head.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49175"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49176,
+          "url": "https://www.tvmaze.com/episodes/49176/30-rock-2x06-somebody-to-love",
+          "name": "Somebody to Love",
+          "season": 2,
+          "number": 6,
+          "type": "regular",
+          "airdate": "2007-11-15",
+          "airtime": "20:30",
+          "airstamp": "2007-11-16T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.5
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508228.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508228.jpg"
+          },
+          "summary": "<p>Jack falls for a congresswoman he meets at a cocktail party and despite the fact that they hold opposite views, the couple agrees to put politics aside and have a secret affair. Meanwhile, Liz believes her Middle Eastern neighbor to be a terrorist and tips off Homeland Security, creating a big mess.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49176"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49177,
+          "url": "https://www.tvmaze.com/episodes/49177/30-rock-2x07-cougars",
+          "name": "Cougars",
+          "season": 2,
+          "number": 7,
+          "type": "regular",
+          "airdate": "2007-11-29",
+          "airtime": "20:30",
+          "airstamp": "2007-11-30T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.5
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508229.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508229.jpg"
+          },
+          "summary": "<p>As part of his community service, Tracy must coach a little league team. All goes well until Jack takes interest in the team and turmoil starts from there. Meanwhile, Liz is asked out on a date by Jamie, the new coffee boy, who thinks Liz is actually younger than she truly is.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49177"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49178,
+          "url": "https://www.tvmaze.com/episodes/49178/30-rock-2x08-secrets-and-lies",
+          "name": "Secrets and Lies",
+          "season": 2,
+          "number": 8,
+          "type": "regular",
+          "airdate": "2007-12-06",
+          "airtime": "20:30",
+          "airstamp": "2007-12-07T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.7
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508230.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508230.jpg"
+          },
+          "summary": "<p>C.C. wants to go public with her love for Jack, while Liz works at appeasing both Tracy and Jenna.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49178"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49179,
+          "url": "https://www.tvmaze.com/episodes/49179/30-rock-2x09-ludachristmas",
+          "name": "Ludachristmas",
+          "season": 2,
+          "number": 9,
+          "type": "regular",
+          "airdate": "2007-12-13",
+          "airtime": "21:00",
+          "airstamp": "2007-12-14T02:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.5
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508231.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508231.jpg"
+          },
+          "summary": "<p>The cast and writers of TGS prepare their annual Ludachristmas party in the writer's room.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49179"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49180,
+          "url": "https://www.tvmaze.com/episodes/49180/30-rock-2x10-episode-210",
+          "name": "Episode 210",
+          "season": 2,
+          "number": 10,
+          "type": "regular",
+          "airdate": "2008-01-10",
+          "airtime": "20:30",
+          "airstamp": "2008-01-11T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.9
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508232.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508232.jpg"
+          },
+          "summary": "<p>Jack and C.C. try to make their long distance romance work, Liz decides to invest in real estate, and Kenneth becomes addicted to caffeine.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49180"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49181,
+          "url": "https://www.tvmaze.com/episodes/49181/30-rock-2x11-milf-island",
+          "name": "MILF Island",
+          "season": 2,
+          "number": 11,
+          "type": "regular",
+          "airdate": "2008-04-10",
+          "airtime": "20:30",
+          "airstamp": "2008-04-11T00:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.4
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508233.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508233.jpg"
+          },
+          "summary": "<p>Just as \"MILF Island\" takes off, Jack suffers a setback when somebody runs a terrible quote in the New York Post calling him a \"Grade-A Moron\".</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49181"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49182,
+          "url": "https://www.tvmaze.com/episodes/49182/30-rock-2x12-subway-hero",
+          "name": "Subway Hero",
+          "season": 2,
+          "number": 12,
+          "type": "regular",
+          "airdate": "2008-04-17",
+          "airtime": "20:30",
+          "airstamp": "2008-04-18T00:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.5
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508234.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508234.jpg"
+          },
+          "summary": "<p>Dennis becomes a New York City celebrity after jumping in front of a train and saving someone who fell on the tracks. Meanwhile, Jack desperately tries to persuade Tracy to become the celebrity face of the Republican Party.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49182"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49183,
+          "url": "https://www.tvmaze.com/episodes/49183/30-rock-2x13-succession",
+          "name": "Succession",
+          "season": 2,
+          "number": 13,
+          "type": "regular",
+          "airdate": "2008-04-24",
+          "airtime": "21:30",
+          "airstamp": "2008-04-25T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.2
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508235.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508235.jpg"
+          },
+          "summary": "<p>Liz is shocked when Jack is promoted and names her his successor.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49183"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49184,
+          "url": "https://www.tvmaze.com/episodes/49184/30-rock-2x14-sandwich-day",
+          "name": "Sandwich Day",
+          "season": 2,
+          "number": 14,
+          "type": "regular",
+          "airdate": "2008-05-01",
+          "airtime": "21:30",
+          "airstamp": "2008-05-02T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.6
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508236.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508236.jpg"
+          },
+          "summary": "<p>Floyd stays at Liz's place overnight when his flight is canceled. Meanwhile, Jack is demoted to the 12th floor, causing him to question his future status at the company. Finally, the staff celebrates Annual Sandwich Day with mysterious sandwiches from a secret location in Brooklyn.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49184"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49185,
+          "url": "https://www.tvmaze.com/episodes/49185/30-rock-2x15-cooter",
+          "name": "Cooter",
+          "season": 2,
+          "number": 15,
+          "type": "regular",
+          "airdate": "2008-05-08",
+          "airtime": "21:30",
+          "airstamp": "2008-05-09T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.7
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508237.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508237.jpg"
+          },
+          "summary": "<p>Jack hates his new job in Washington while back in New York, Liz deals with a pregnancy scare.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49185"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49186,
+          "url": "https://www.tvmaze.com/episodes/49186/30-rock-3x01-do-over",
+          "name": "Do-Over",
+          "season": 3,
+          "number": 1,
+          "type": "regular",
+          "airdate": "2008-10-30",
+          "airtime": "21:30",
+          "airstamp": "2008-10-31T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.1
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508344.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508344.jpg"
+          },
+          "summary": "<p>Liz tries to keep the TGS staff from ruining her chances at adoption when an evaluator (Megan Mullally) drops by the job. Jack is back at 30 Rock to reclaim his position from Devin Banks (Will Arnett), but quickly learns the task won't be easy when he is given a sizeable demotion.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49186"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49187,
+          "url": "https://www.tvmaze.com/episodes/49187/30-rock-3x02-believe-in-the-stars",
+          "name": "Believe in the Stars",
+          "season": 3,
+          "number": 2,
+          "type": "regular",
+          "airdate": "2008-11-06",
+          "airtime": "21:30",
+          "airstamp": "2008-11-07T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.3
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508345.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508345.jpg"
+          },
+          "summary": "<p>On a flight back from Chicago, Liz spills her soul to Oprah Winfrey. Meanwhile, Tracy and Jenna butt heads as they try to determine whose life is harder and Jack's morality is tested by Kenneth after an Olympics snafu.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49187"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49188,
+          "url": "https://www.tvmaze.com/episodes/49188/30-rock-3x03-the-one-with-the-cast-of-night-court",
+          "name": "The One with the Cast of 'Night Court'",
+          "season": 3,
+          "number": 3,
+          "type": "regular",
+          "airdate": "2008-11-13",
+          "airtime": "21:30",
+          "airstamp": "2008-11-14T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.8
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508346.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508346.jpg"
+          },
+          "summary": "<p>Liz and Jenna's free-spirited friend Claire (Jennifer Aniston) visits New York and falls hard for Jack. Kenneth, distressed over the new page uniforms, turns to Tracy who cheers him up with a surprise involving the cast of Night Court.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49188"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49189,
+          "url": "https://www.tvmaze.com/episodes/49189/30-rock-3x04-gavin-volure",
+          "name": "Gavin Volure",
+          "season": 3,
+          "number": 4,
+          "type": "regular",
+          "airdate": "2008-11-20",
+          "airtime": "21:30",
+          "airstamp": "2008-11-21T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.8
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508347.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508347.jpg"
+          },
+          "summary": "<p>Eccentric businessman Gavin Volure (Steve Martin) becomes enamored with Liz. Meanwhile, Tracy fears his kids may have sinister plans and Kenneth entrusts Jack to invest his savings in Gavin's business venture.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49189"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49190,
+          "url": "https://www.tvmaze.com/episodes/49190/30-rock-3x05-reunion",
+          "name": "Reunion",
+          "season": 3,
+          "number": 5,
+          "type": "regular",
+          "airdate": "2008-12-04",
+          "airtime": "21:30",
+          "airstamp": "2008-12-05T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.1
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508348.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508348.jpg"
+          },
+          "summary": "<p>Liz is opposed to going to her high school reunion, but Jack manages to convince her otherwise. Meanwhile, Don Geiss (Rip Torn) wake up from his coma only to shock Jack with his declaration of who will be GE's CEO.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49190"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49191,
+          "url": "https://www.tvmaze.com/episodes/49191/30-rock-3x06-christmas-special",
+          "name": "Christmas Special",
+          "season": 3,
+          "number": 6,
+          "type": "regular",
+          "airdate": "2008-12-11",
+          "airtime": "21:30",
+          "airstamp": "2008-12-12T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.7
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508349.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508349.jpg"
+          },
+          "summary": "<p>Liz participates in a charity program to help underprivileged kids celebrate Christmas. Meanwhile, Jack takes his frustration out on the TGS staff when his plans for a dream holiday vacation away from his overbearing mother are crushed.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49191"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49192,
+          "url": "https://www.tvmaze.com/episodes/49192/30-rock-3x07-senor-macho-solo",
+          "name": "Senor Macho Solo",
+          "season": 3,
+          "number": 7,
+          "type": "regular",
+          "airdate": "2009-01-08",
+          "airtime": "21:30",
+          "airstamp": "2009-01-09T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.9
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508350.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508350.jpg"
+          },
+          "summary": "<p>Jenna is concerned that Liz's attraction to a new guy (Peter Dinklage) has to do with her longing to have a child. Jack hits it off with his mother's nurse. Elisa (Salma Hayek) helps Tracy and Angie (Sherry Shepherd) arrange a post-nip, and tries to get Jenna an audition for the title role in a Janis Joplin biopic.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49192"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49193,
+          "url": "https://www.tvmaze.com/episodes/49193/30-rock-3x08-flu-shot",
+          "name": "Flu Shot",
+          "season": 3,
+          "number": 8,
+          "type": "regular",
+          "airdate": "2009-01-15",
+          "airtime": "21:30",
+          "airstamp": "2009-01-16T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.9
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508351.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508351.jpg"
+          },
+          "summary": "<p>Liz fights for the staff's rights to flu shots from Dr. Spaceman (Chris Parnell). Meanwhile, Elisa is working seven days a week, so Jack must be creative about finding ways to spend time with her.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49193"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49194,
+          "url": "https://www.tvmaze.com/episodes/49194/30-rock-3x09-retreat-to-move-forward",
+          "name": "Retreat to Move Forward",
+          "season": 3,
+          "number": 9,
+          "type": "regular",
+          "airdate": "2009-01-22",
+          "airtime": "21:30",
+          "airstamp": "2009-01-23T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.8
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508352.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508352.jpg"
+          },
+          "summary": "<p>Nervous about the corporate retreat, Jack recruits Liz to accompany him for support. Jenna decides to take up method acting to prepare for her Janis Joplin role. Kenneth must convince Tracy that diabetes is affected by his diet.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49194"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49195,
+          "url": "https://www.tvmaze.com/episodes/49195/30-rock-3x10-generalissimo",
+          "name": "Generalissimo",
+          "season": 3,
+          "number": 10,
+          "type": "regular",
+          "airdate": "2009-02-05",
+          "airtime": "21:30",
+          "airstamp": "2009-02-06T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.2
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508353.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508353.jpg"
+          },
+          "summary": "<p>Liz discovers she has a handsome and single neighbor (Jon Hamm) after receiving his mail by mistake. Due to Jack's striking resemblance to a spanish soap villain, Elisa's grandmother disapproves of their relationship. The new TGS interns invite Tracy out for a night of partying.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49195"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49196,
+          "url": "https://www.tvmaze.com/episodes/49196/30-rock-3x11-st-valentines-day",
+          "name": "St. Valentine's Day",
+          "season": 3,
+          "number": 11,
+          "type": "regular",
+          "airdate": "2009-02-12",
+          "airtime": "21:30",
+          "airstamp": "2009-02-13T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.6
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508354.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508354.jpg"
+          },
+          "summary": "<p>Liz unintentionally insists her and Drew (Jon Hamm) have their first official date on Valentine's Day. Jack goes to church with girlfriend Elisa and Tracy helps Kenneth win the affection of a new staffer.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49196"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49197,
+          "url": "https://www.tvmaze.com/episodes/49197/30-rock-3x12-larry-king",
+          "name": "Larry King",
+          "season": 3,
+          "number": 12,
+          "type": "regular",
+          "airdate": "2009-02-26",
+          "airtime": "21:30",
+          "airstamp": "2009-02-27T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.1
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508355.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508355.jpg"
+          },
+          "summary": "<p>Jack considers taking the next step with Elisa while Tracy's interview on Larry King Live sends New York City into a panic. Liz recruits Kenneth to accompany her to chaotic Queens to retrieve her lost cell phone.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49197"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49198,
+          "url": "https://www.tvmaze.com/episodes/49198/30-rock-3x13-goodbye-my-friend",
+          "name": "Goodbye, My Friend",
+          "season": 3,
+          "number": 13,
+          "type": "regular",
+          "airdate": "2009-03-05",
+          "airtime": "21:30",
+          "airstamp": "2009-03-06T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.7
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508356.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508356.jpg"
+          },
+          "summary": "<p>Liz befriends a pregnant teen in an attempt to adopt her baby. Jenna vies for more attention but Kenneth's plan to combine her birthday party with one for Tracy derails her efforts. Jack goes out with the guys and bonds with Frank over daddy issues.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49198"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49199,
+          "url": "https://www.tvmaze.com/episodes/49199/30-rock-3x14-the-funcooker",
+          "name": "The Funcooker",
+          "season": 3,
+          "number": 14,
+          "type": "regular",
+          "airdate": "2009-03-12",
+          "airtime": "21:30",
+          "airstamp": "2009-03-13T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.5
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508357.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508357.jpg"
+          },
+          "summary": "<p>When Liz can't scheme her way out of jury duty, chaos ensues on the set of TGS. With no one in charge, Tracy and Jenna begin to act irresponsibly, while Jack becomes absorbed in launching a lucrative new product.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49199"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49200,
+          "url": "https://www.tvmaze.com/episodes/49200/30-rock-3x15-the-bubble",
+          "name": "The Bubble",
+          "season": 3,
+          "number": 15,
+          "type": "regular",
+          "airdate": "2009-03-19",
+          "airtime": "21:30",
+          "airstamp": "2009-03-20T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.1
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508358.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508358.jpg"
+          },
+          "summary": "<p>Liz spends more time with her boyfriend Drew (Jon Hamm) and finds that his handsomeness allows him to bypass many of the usual frustrations of daily life. Jack must find a way to convince Tracy to stay on at TGS after his contract expires and Jenna considers a new hairstyle to attract public attention.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49200"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49201,
+          "url": "https://www.tvmaze.com/episodes/49201/30-rock-3x16-apollo-apollo",
+          "name": "Apollo, Apollo",
+          "season": 3,
+          "number": 16,
+          "type": "regular",
+          "airdate": "2009-03-26",
+          "airtime": "21:30",
+          "airstamp": "2009-03-27T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.3
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508359.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508359.jpg"
+          },
+          "summary": "<p>While Jack plans the perfect 50th birthday party for himself, he watches old home videos that inspire him to recreate one of the happiest moments he had a young boy. Liz's ex-boyfriend Dennis decides to come clean about an addiction, stirring up drama between Liz and Jenna.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49201"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49202,
+          "url": "https://www.tvmaze.com/episodes/49202/30-rock-3x17-cutbacks",
+          "name": "Cutbacks",
+          "season": 3,
+          "number": 17,
+          "type": "regular",
+          "airdate": "2009-04-09",
+          "airtime": "21:30",
+          "airstamp": "2009-04-10T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.6
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508360.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508360.jpg"
+          },
+          "summary": "<p>Excitement for TGS's 50th show is quickly replaced by concern about company budget cuts. When Jack is forced to hand out pink slips, Liz does some personal bartering to save her staff.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49202"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49203,
+          "url": "https://www.tvmaze.com/episodes/49203/30-rock-3x18-jackie-jormp-jomp",
+          "name": "Jackie Jormp-Jomp",
+          "season": 3,
+          "number": 18,
+          "type": "regular",
+          "airdate": "2009-04-16",
+          "airtime": "21:30",
+          "airstamp": "2009-04-17T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.3
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508361.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508361.jpg"
+          },
+          "summary": "<p>Suspended from work, Liz must learn to live without TGS. Meanwhile, when the film studio has second thoughts about releasing Jenna's Janis Joplin biopic, Jack needs Jenna to create some promotional buzz using her celebrity status.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49203"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49204,
+          "url": "https://www.tvmaze.com/episodes/49204/30-rock-3x19-the-ones",
+          "name": "The Ones",
+          "season": 3,
+          "number": 19,
+          "type": "regular",
+          "airdate": "2009-04-23",
+          "airtime": "21:30",
+          "airstamp": "2009-04-24T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508362.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508362.jpg"
+          },
+          "summary": "<p>When Jack and Elisa (Salma Hayek) think seriously about their engagement, he seeks advice from Tracy about the reality of married life. Elisa divulges to Liz she is keeping a secret. A prank results in an injury back at TGS and Jenna loses her cool over an attractive EMT.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49204"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49205,
+          "url": "https://www.tvmaze.com/episodes/49205/30-rock-3x20-the-natural-order",
+          "name": "The Natural Order",
+          "season": 3,
+          "number": 20,
+          "type": "regular",
+          "airdate": "2009-04-30",
+          "airtime": "21:30",
+          "airstamp": "2009-05-01T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.1
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508363.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508363.jpg"
+          },
+          "summary": "<p>Tracy and Liz stop receiving preferential treatment and experience what it means to be each other's equals. Jack's mother reveals unpleasant memories about Jack's father leaving the family. Jenna adopts a pet gibbon and learns the perils of motherhood.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49205"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49206,
+          "url": "https://www.tvmaze.com/episodes/49206/30-rock-3x21-mama-mia",
+          "name": "Mama Mia",
+          "season": 3,
+          "number": 21,
+          "type": "regular",
+          "airdate": "2009-05-07",
+          "airtime": "21:30",
+          "airstamp": "2009-05-08T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.8
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508364.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508364.jpg"
+          },
+          "summary": "<p>Liz and Tracy convince Jack to begin the search for his real father (Alan Alda) and Tracy discovers an illegitimate son. Meanwhile, Jenna and Liz fight for the spotlight when Jenna gets recognition for one of Liz's ideas.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49206"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49207,
+          "url": "https://www.tvmaze.com/episodes/49207/30-rock-3x22-kidney-now",
+          "name": "Kidney Now!",
+          "season": 3,
+          "number": 22,
+          "type": "regular",
+          "airdate": "2009-05-14",
+          "airtime": "21:30",
+          "airstamp": "2009-05-15T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.5
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508365.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508365.jpg"
+          },
+          "summary": "<p>The TGS staff rallies as Jack's father's (Alan Alda) health hangs in the balance. Liz enjoys newfound fame as a relationship expert. When Tracy's high school invites him to speak at graduation, Kenneth helps him overcome embarrassing memories.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49207"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49208,
+          "url": "https://www.tvmaze.com/episodes/49208/30-rock-4x01-season-4",
+          "name": "Season 4",
+          "season": 4,
+          "number": 1,
+          "type": "regular",
+          "airdate": "2009-10-15",
+          "airtime": "21:30",
+          "airstamp": "2009-10-16T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.9
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508576.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508576.jpg"
+          },
+          "summary": "<p>Jack informs Liz that it's time for TGS to start appealing to middle America, and wants her to search for a new cast member.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49208"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49209,
+          "url": "https://www.tvmaze.com/episodes/49209/30-rock-4x02-into-the-crevasse",
+          "name": "Into the Crevasse",
+          "season": 4,
+          "number": 2,
+          "type": "regular",
+          "airdate": "2009-10-22",
+          "airtime": "21:30",
+          "airstamp": "2009-10-23T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.2
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508577.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508577.jpg"
+          },
+          "summary": "<p>Liz's book finally hits the stores, but she faces the wrath of Tracy when he finds out just how much he influenced what Liz wrote.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49209"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49210,
+          "url": "https://www.tvmaze.com/episodes/49210/30-rock-4x03-stone-mountain",
+          "name": "Stone Mountain",
+          "season": 4,
+          "number": 3,
+          "type": "regular",
+          "airdate": "2009-10-29",
+          "airtime": "21:30",
+          "airstamp": "2009-10-30T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.7
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508578.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508578.jpg"
+          },
+          "summary": "<p>Liz and Jack travel south to find their next great TGS talent.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49210"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49211,
+          "url": "https://www.tvmaze.com/episodes/49211/30-rock-4x04-audition-day",
+          "name": "Audition Day",
+          "season": 4,
+          "number": 4,
+          "type": "regular",
+          "airdate": "2009-11-05",
+          "airtime": "21:30",
+          "airstamp": "2009-11-06T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.7
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508579.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508579.jpg"
+          },
+          "summary": "<p>It's audition day at TGS and the cast and crew each have want their favorites chosen.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49211"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49212,
+          "url": "https://www.tvmaze.com/episodes/49212/30-rock-4x05-the-problem-solvers",
+          "name": "The Problem Solvers",
+          "season": 4,
+          "number": 5,
+          "type": "regular",
+          "airdate": "2009-11-12",
+          "airtime": "21:30",
+          "airstamp": "2009-11-13T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.8
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508580.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508580.jpg"
+          },
+          "summary": "<p>While the TGS crew await the arrival of their new cast member, Liz gets an offer of a lifetime.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49212"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49213,
+          "url": "https://www.tvmaze.com/episodes/49213/30-rock-4x06-sun-tea",
+          "name": "Sun Tea",
+          "season": 4,
+          "number": 6,
+          "type": "regular",
+          "airdate": "2009-11-19",
+          "airtime": "21:30",
+          "airstamp": "2009-11-20T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.4
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508581.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508581.jpg"
+          },
+          "summary": "<p>It's green week and Kenneth does his part, with the help of Al Gore.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49213"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49214,
+          "url": "https://www.tvmaze.com/episodes/49214/30-rock-4x07-dealbreakers-talk-show-0001",
+          "name": "Dealbreakers Talk Show #0001",
+          "season": 4,
+          "number": 7,
+          "type": "regular",
+          "airdate": "2009-12-03",
+          "airtime": "21:30",
+          "airstamp": "2009-12-04T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.6
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508582.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508582.jpg"
+          },
+          "summary": "<p>Production begins on Liz's new talk show, Dealbreakers, and she realizes what it's like to walk in Jenna's shoes.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49214"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49215,
+          "url": "https://www.tvmaze.com/episodes/49215/30-rock-4x08-secret-santa",
+          "name": "Secret Santa",
+          "season": 4,
+          "number": 8,
+          "type": "regular",
+          "airdate": "2009-12-10",
+          "airtime": "21:30",
+          "airstamp": "2009-12-11T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.3
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508583.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508583.jpg"
+          },
+          "summary": "<p>Jack takes a trip down memory lane when his high school crush resurfaces in his life.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49215"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49216,
+          "url": "https://www.tvmaze.com/episodes/49216/30-rock-4x09-klaus-and-greta",
+          "name": "Klaus and Greta",
+          "season": 4,
+          "number": 9,
+          "type": "regular",
+          "airdate": "2010-01-14",
+          "airtime": "21:00",
+          "airstamp": "2010-01-15T02:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.3
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508584.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508584.jpg"
+          },
+          "summary": "<p>Jenna enters in a fake relationship with James Franco while Jack tries to gain access to a drunken voicemail he left Nancy.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49216"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49217,
+          "url": "https://www.tvmaze.com/episodes/49217/30-rock-4x10-black-light-attack",
+          "name": "Black Light Attack!",
+          "season": 4,
+          "number": 10,
+          "type": "regular",
+          "airdate": "2010-01-14",
+          "airtime": "21:30",
+          "airstamp": "2010-01-15T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.1
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508585.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508585.jpg"
+          },
+          "summary": "<p>Danny reveals to Jack he's having secret make-out sessions with a TGS writer; Jenna auditions for Gossip Girl.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49217"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49218,
+          "url": "https://www.tvmaze.com/episodes/49218/30-rock-4x11-winter-madness",
+          "name": "Winter Madness",
+          "season": 4,
+          "number": 11,
+          "type": "regular",
+          "airdate": "2010-01-21",
+          "airtime": "21:30",
+          "airstamp": "2010-01-22T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508586.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508586.jpg"
+          },
+          "summary": "<p>To boost morale at TGS, Liz and Jack take the gang up North for a work field trip.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49218"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49219,
+          "url": "https://www.tvmaze.com/episodes/49219/30-rock-4x12-verna",
+          "name": "Verna",
+          "season": 4,
+          "number": 12,
+          "type": "regular",
+          "airdate": "2010-02-04",
+          "airtime": "21:30",
+          "airstamp": "2010-02-05T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.7
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508587.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508587.jpg"
+          },
+          "summary": "<p>Jenna's estranged mother comes into town and Jenna turns to Jack for advice on how to deal with her.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49219"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49220,
+          "url": "https://www.tvmaze.com/episodes/49220/30-rock-4x13-anna-howard-shaw-day",
+          "name": "Anna Howard Shaw Day",
+          "season": 4,
+          "number": 13,
+          "type": "regular",
+          "airdate": "2010-02-11",
+          "airtime": "21:30",
+          "airstamp": "2010-02-12T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.2
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508588.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508588.jpg"
+          },
+          "summary": "<p>Liz schedules her root canal on Valentine's Day, but has a hard time finding somebody to drive her home.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49220"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49221,
+          "url": "https://www.tvmaze.com/episodes/49221/30-rock-4x14-future-husband",
+          "name": "Future Husband",
+          "season": 4,
+          "number": 14,
+          "type": "regular",
+          "airdate": "2010-03-11",
+          "airtime": "21:30",
+          "airstamp": "2010-03-12T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.8
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508589.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508589.jpg"
+          },
+          "summary": "<p>Liz sets out to find the identity of a mystery number in her phone labeled \"Future Husband.\"</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49221"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49222,
+          "url": "https://www.tvmaze.com/episodes/49222/30-rock-4x15-don-geiss-america-and-hope",
+          "name": "Don Geiss, America and Hope",
+          "season": 4,
+          "number": 15,
+          "type": "regular",
+          "airdate": "2010-03-18",
+          "airtime": "21:30",
+          "airstamp": "2010-03-19T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508590.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508590.jpg"
+          },
+          "summary": "<p>Jack struggles to find his new place in the business after hearing of the Kabletown buy out and Liz continues to wonder if Wesley is the \"one.\"</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49222"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49223,
+          "url": "https://www.tvmaze.com/episodes/49223/30-rock-4x16-floyd",
+          "name": "Floyd",
+          "season": 4,
+          "number": 16,
+          "type": "regular",
+          "airdate": "2010-03-25",
+          "airtime": "21:30",
+          "airstamp": "2010-03-26T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.3
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508591.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508591.jpg"
+          },
+          "summary": "<p>Revenge is in the air when Liz discovers an engaged Floyd is back in town to compete for a dream wedding on \"The Today Show\".</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49223"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49224,
+          "url": "https://www.tvmaze.com/episodes/49224/30-rock-4x17-lee-marvin-vs-derek-jeter",
+          "name": "Lee Marvin vs. Derek Jeter",
+          "season": 4,
+          "number": 17,
+          "type": "regular",
+          "airdate": "2010-04-22",
+          "airtime": "20:30",
+          "airstamp": "2010-04-23T00:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.6
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508593.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508593.jpg"
+          },
+          "summary": "<p>Jack is torn between Nancy and Avery while Jenna offers to be Liz's wingman.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49224"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49225,
+          "url": "https://www.tvmaze.com/episodes/49225/30-rock-4x18-khonani",
+          "name": "Khonani",
+          "season": 4,
+          "number": 18,
+          "type": "regular",
+          "airdate": "2010-04-22",
+          "airtime": "21:30",
+          "airstamp": "2010-04-23T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.1
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508594.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508594.jpg"
+          },
+          "summary": "<p>Determined to show her staff she knows how to cut loose, Liz offers to throw a bridal shower for Cerie.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49225"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49226,
+          "url": "https://www.tvmaze.com/episodes/49226/30-rock-4x19-argus",
+          "name": "Argus",
+          "season": 4,
+          "number": 19,
+          "type": "regular",
+          "airdate": "2010-04-29",
+          "airtime": "21:30",
+          "airstamp": "2010-04-30T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.2
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508595.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508595.jpg"
+          },
+          "summary": "<p>Liz steps in when Tracy and Dotcom argue over who will be Grizz's best man.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49226"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49227,
+          "url": "https://www.tvmaze.com/episodes/49227/30-rock-4x20-the-moms",
+          "name": "The Moms",
+          "season": 4,
+          "number": 20,
+          "type": "regular",
+          "airdate": "2010-05-06",
+          "airtime": "21:30",
+          "airstamp": "2010-05-07T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.8
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508596.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508596.jpg"
+          },
+          "summary": "<p>Liz sets out to reunite her mother with her one true love, Buzz Aldrin.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49227"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49228,
+          "url": "https://www.tvmaze.com/episodes/49228/30-rock-4x21-emmanuel-goes-to-dinosaur-land",
+          "name": "Emmanuel Goes to Dinosaur Land",
+          "season": 4,
+          "number": 21,
+          "type": "regular",
+          "airdate": "2010-05-13",
+          "airtime": "21:30",
+          "airstamp": "2010-05-14T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.2
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508597.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508597.jpg"
+          },
+          "summary": "<p>With Avery out of town, Nancy shows up to visit Jack. Liz revisits her old boyfriends and yet again runs into the unshakable Wesley. Tracy eschews a gritty, Oscar-caliber role to do a Garfield movie.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49228"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49229,
+          "url": "https://www.tvmaze.com/episodes/49229/30-rock-4x22-i-do-do",
+          "name": "I Do Do",
+          "season": 4,
+          "number": 22,
+          "type": "regular",
+          "airdate": "2010-05-20",
+          "airtime": "21:30",
+          "airstamp": "2010-05-21T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.1
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508598.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508598.jpg"
+          },
+          "summary": "<p>Liz finally meets her soul mate, just as Jack is forced to finally decide between Avery and Nancy.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49229"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49230,
+          "url": "https://www.tvmaze.com/episodes/49230/30-rock-5x01-the-fabian-strategy",
+          "name": "The Fabian Strategy",
+          "season": 5,
+          "number": 1,
+          "type": "regular",
+          "airdate": "2010-09-23",
+          "airtime": "20:30",
+          "airstamp": "2010-09-24T00:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.6
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508599.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508599.jpg"
+          },
+          "summary": "<p>Liz's boyfriend Carol comes to town, ready to take their relationship to the next level.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49230"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49231,
+          "url": "https://www.tvmaze.com/episodes/49231/30-rock-5x02-when-it-rains-it-pours",
+          "name": "When It Rains, It Pours",
+          "season": 5,
+          "number": 2,
+          "type": "regular",
+          "airdate": "2010-09-30",
+          "airtime": "20:30",
+          "airstamp": "2010-10-01T00:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.9
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508600.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508600.jpg"
+          },
+          "summary": "<p>Liz turns on the charm to win over a TGS editor; Jack and Avery find out the gender of their baby.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49231"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49232,
+          "url": "https://www.tvmaze.com/episodes/49232/30-rock-5x03-lets-stay-together",
+          "name": "Let's Stay Together",
+          "season": 5,
+          "number": 3,
+          "type": "regular",
+          "airdate": "2010-10-07",
+          "airtime": "20:30",
+          "airstamp": "2010-10-08T00:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.9
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508601.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508601.jpg"
+          },
+          "summary": "<p>Jack heads to Washington D.C. to speak on behalf of the NBC and Kabletown merger, and faces obstacles from a Rhode Island Congresswoman.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49232"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49233,
+          "url": "https://www.tvmaze.com/episodes/49233/30-rock-5x04-live-show",
+          "name": "Live Show",
+          "season": 5,
+          "number": 4,
+          "type": "regular",
+          "airdate": "2010-10-14",
+          "airtime": "20:30",
+          "airstamp": "2010-10-15T00:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.7
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508602.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508602.jpg"
+          },
+          "summary": "<p>Liz is upset because nobody remembers her 40th birthday, Jack tries to give up drinking to support his pregnant girlfriend, and Tracy threatens to break character during TGS.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49233"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49234,
+          "url": "https://www.tvmaze.com/episodes/49234/30-rock-5x05-reaganing",
+          "name": "Reaganing",
+          "season": 5,
+          "number": 5,
+          "type": "regular",
+          "airdate": "2010-10-21",
+          "airtime": "20:30",
+          "airstamp": "2010-10-22T00:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.2
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508603.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508603.jpg"
+          },
+          "summary": "<p>Jack is on a winning streak and sets his sights on fixing Liz's relationship with Carol.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49234"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49235,
+          "url": "https://www.tvmaze.com/episodes/49235/30-rock-5x06-gentlemans-intermission",
+          "name": "Gentleman's Intermission",
+          "season": 5,
+          "number": 6,
+          "type": "regular",
+          "airdate": "2010-11-04",
+          "airtime": "20:30",
+          "airstamp": "2010-11-05T00:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508604.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508604.jpg"
+          },
+          "summary": "<p>Avery makes Jack set up some boundaries when it comes to his friendship with Liz.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49235"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49236,
+          "url": "https://www.tvmaze.com/episodes/49236/30-rock-5x07-brooklyn-without-limits",
+          "name": "Brooklyn Without Limits",
+          "season": 5,
+          "number": 7,
+          "type": "regular",
+          "airdate": "2010-11-11",
+          "airtime": "20:30",
+          "airstamp": "2010-11-12T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.1
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508605.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508605.jpg"
+          },
+          "summary": "<p>Liz frequents a local boutique because she thinks she's helping the environment--and their jeans make her butt look good. Meanwhile, Jack helps an enemy's political rival, and Jenna helps Tracy aim for a Golden Globe nomination.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49236"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49237,
+          "url": "https://www.tvmaze.com/episodes/49237/30-rock-5x08-college",
+          "name": "College",
+          "season": 5,
+          "number": 8,
+          "type": "regular",
+          "airdate": "2010-11-18",
+          "airtime": "20:30",
+          "airstamp": "2010-11-19T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.1
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508606.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508606.jpg"
+          },
+          "summary": "<p>Liz tries to buy her way to popularity after she wins the TGS crew's lottery.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49237"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49238,
+          "url": "https://www.tvmaze.com/episodes/49238/30-rock-5x09-chain-reaction-of-mental-anguish",
+          "name": "Chain Reaction of Mental Anguish",
+          "season": 5,
+          "number": 9,
+          "type": "regular",
+          "airdate": "2010-12-02",
+          "airtime": "20:30",
+          "airstamp": "2010-12-03T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.1
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508607.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508607.jpg"
+          },
+          "summary": "<p>Liz begins to worry about her relationship and Jack advises her that it's time to seek a therapist.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49238"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49239,
+          "url": "https://www.tvmaze.com/episodes/49239/30-rock-5x10-christmas-attack-zone",
+          "name": "Christmas Attack Zone",
+          "season": 5,
+          "number": 10,
+          "type": "regular",
+          "airdate": "2010-12-09",
+          "airtime": "20:30",
+          "airstamp": "2010-12-10T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.2
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508608.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508608.jpg"
+          },
+          "summary": "<p>Avery and Liz push Jack to unveil two giant secrets to his mother during her holiday visit.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49239"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49240,
+          "url": "https://www.tvmaze.com/episodes/49240/30-rock-5x11-mrs-donaghy",
+          "name": "Mrs. Donaghy",
+          "season": 5,
+          "number": 11,
+          "type": "regular",
+          "airdate": "2011-01-20",
+          "airtime": "22:00",
+          "airstamp": "2011-01-21T03:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.2
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508610.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508610.jpg"
+          },
+          "summary": "<p>Liz's New Year's resolutions cause trouble for Jack and Avery's wedding plans.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49240"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49241,
+          "url": "https://www.tvmaze.com/episodes/49241/30-rock-5x12-operation-righteous-cowboy-lightning",
+          "name": "Operation Righteous Cowboy Lightning",
+          "season": 5,
+          "number": 12,
+          "type": "regular",
+          "airdate": "2011-01-27",
+          "airtime": "22:00",
+          "airstamp": "2011-01-28T03:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.5
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508611.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508611.jpg"
+          },
+          "summary": "<p>Jack hopes to make money for the network by pre-recording a disaster benefit that can go on-air.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49241"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49242,
+          "url": "https://www.tvmaze.com/episodes/49242/30-rock-5x13-que-sorpresa",
+          "name": "¡Qué Sorpresa!",
+          "season": 5,
+          "number": 13,
+          "type": "regular",
+          "airdate": "2011-02-03",
+          "airtime": "22:00",
+          "airstamp": "2011-02-04T03:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.8
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508612.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508612.jpg"
+          },
+          "summary": "<p>Jack does his best to impress the KableTown executives.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49242"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49243,
+          "url": "https://www.tvmaze.com/episodes/49243/30-rock-5x14-double-edged-sword",
+          "name": "Double-Edged Sword",
+          "season": 5,
+          "number": 14,
+          "type": "regular",
+          "airdate": "2011-02-10",
+          "airtime": "22:00",
+          "airstamp": "2011-02-11T03:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.9
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508613.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508613.jpg"
+          },
+          "summary": "<p>Both Liz's and Jack's romantic getaways with their significant others turn into nightmares.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49243"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49244,
+          "url": "https://www.tvmaze.com/episodes/49244/30-rock-5x15-its-never-too-late-for-now",
+          "name": "It's Never Too Late for Now",
+          "season": 5,
+          "number": 15,
+          "type": "regular",
+          "airdate": "2011-02-17",
+          "airtime": "22:00",
+          "airstamp": "2011-02-18T03:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.9
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508614.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508614.jpg"
+          },
+          "summary": "<p>The TGS gang tries to stop Liz's descent into spinsterhood while Frank and Pete start a band.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49244"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49245,
+          "url": "https://www.tvmaze.com/episodes/49245/30-rock-5x16-tgs-hates-women",
+          "name": "TGS Hates Women",
+          "season": 5,
+          "number": 16,
+          "type": "regular",
+          "airdate": "2011-02-24",
+          "airtime": "22:00",
+          "airstamp": "2011-02-25T03:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508615.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508615.jpg"
+          },
+          "summary": "<p>Liz hires a female writer in order to prove that TGS isn't sexist. Jack hatches a plot to manipulate his way to the top of KableTown.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49245"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49246,
+          "url": "https://www.tvmaze.com/episodes/49246/30-rock-5x17-queen-of-jordan",
+          "name": "Queen of Jordan",
+          "season": 5,
+          "number": 17,
+          "type": "regular",
+          "airdate": "2011-03-17",
+          "airtime": "22:00",
+          "airstamp": "2011-03-18T02:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.7
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508616.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508616.jpg"
+          },
+          "summary": "<p>Jack and Liz try to manipulate Angie into getting Tracy to return to TGS, while the \"Queen of Jordan\" cameras bring Jack some embarrassment.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49246"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49247,
+          "url": "https://www.tvmaze.com/episodes/49247/30-rock-5x18-plan-b",
+          "name": "Plan B",
+          "season": 5,
+          "number": 18,
+          "type": "regular",
+          "airdate": "2011-03-24",
+          "airtime": "22:00",
+          "airstamp": "2011-03-25T02:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.1
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508617.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508617.jpg"
+          },
+          "summary": "<p>With TGS on hiatus, the crew looks for other jobs. Meanwhile, Jack tries to salvage his cable network by enlisting the help of his arch nemesis.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49247"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49248,
+          "url": "https://www.tvmaze.com/episodes/49248/30-rock-5x19-i-heart-connecticut",
+          "name": "I Heart Connecticut",
+          "season": 5,
+          "number": 19,
+          "type": "regular",
+          "airdate": "2011-04-14",
+          "airtime": "22:00",
+          "airstamp": "2011-04-15T02:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.9
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508618.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508618.jpg"
+          },
+          "summary": "<p>Liz and Ken go on a quest to find Tracy in New York, while Jenna and Jack work to get a horror film made by whatever means necessary.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49248"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49249,
+          "url": "https://www.tvmaze.com/episodes/49249/30-rock-5x20-100-part-1",
+          "name": "100: Part 1",
+          "season": 5,
+          "number": 20,
+          "type": "regular",
+          "airdate": "2011-04-21",
+          "airtime": "22:00",
+          "airstamp": "2011-04-22T02:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.1
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508619.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508619.jpg"
+          },
+          "summary": "<p>When Hank Hooper marks \"TGS\" for cancellation, Jack persuades him to let Liz and the crew try to change his mind by staging the show's 100th episode.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49249"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49250,
+          "url": "https://www.tvmaze.com/episodes/49250/30-rock-5x21-100-part-2",
+          "name": "100: Part 2",
+          "season": 5,
+          "number": 21,
+          "type": "regular",
+          "airdate": "2011-04-21",
+          "airtime": "22:30",
+          "airstamp": "2011-04-22T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.1
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508620.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508620.jpg"
+          },
+          "summary": "<p>When Hank Hooper marks \"TGS\" for cancellation, Jack persuades him to let Liz and the crew try to change his mind by staging the show's 100th episode.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49250"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49251,
+          "url": "https://www.tvmaze.com/episodes/49251/30-rock-5x22-everything-sunny-all-the-time-always",
+          "name": "Everything Sunny All the Time Always",
+          "season": 5,
+          "number": 22,
+          "type": "regular",
+          "airdate": "2011-04-28",
+          "airtime": "22:30",
+          "airstamp": "2011-04-29T02:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.7
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508621.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508621.jpg"
+          },
+          "summary": "<p>While Liz embraces spirituality, Jack has a heated duel with his ex-flame Condoleezza Rice!</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49251"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49252,
+          "url": "https://www.tvmaze.com/episodes/49252/30-rock-5x23-respawn",
+          "name": "Respawn",
+          "season": 5,
+          "number": 23,
+          "type": "regular",
+          "airdate": "2011-05-05",
+          "airtime": "22:00",
+          "airstamp": "2011-05-06T02:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.1
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508622.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508622.jpg"
+          },
+          "summary": "<p>Liz's attempt to get some R&amp;R over vacation is spoiled by Tracy, a lonely Jack turns to Kenneth for company.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49252"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49253,
+          "url": "https://www.tvmaze.com/episodes/49253/30-rock-6x01-dance-like-nobodys-watching",
+          "name": "Dance Like Nobody's Watching",
+          "season": 6,
+          "number": 1,
+          "type": "regular",
+          "airdate": "2012-01-12",
+          "airtime": "20:00",
+          "airstamp": "2012-01-13T01:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 6.8
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508623.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508623.jpg"
+          },
+          "summary": "<p>Liz finds a new happiness; Jenna finds a popular new gig humiliating children on NBC's \"America's Kidz Got Singing.\"</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49253"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49254,
+          "url": "https://www.tvmaze.com/episodes/49254/30-rock-6x02-idiots-are-people-two",
+          "name": "Idiots Are People Two!",
+          "season": 6,
+          "number": 2,
+          "type": "regular",
+          "airdate": "2012-01-19",
+          "airtime": "20:00",
+          "airstamp": "2012-01-20T01:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.2
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508624.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508624.jpg"
+          },
+          "summary": "<p>Liz strives to keep her boyfriend under wraps while a rant from Tracy unleashes a publicity nightmare.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49254"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49255,
+          "url": "https://www.tvmaze.com/episodes/49255/30-rock-6x03-idiots-are-people-three",
+          "name": "Idiots Are People Three!",
+          "season": 6,
+          "number": 3,
+          "type": "regular",
+          "airdate": "2012-01-26",
+          "airtime": "20:00",
+          "airstamp": "2012-01-27T01:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.3
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508625.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508625.jpg"
+          },
+          "summary": "<p>Devon Banks returns to torment Jack while Tracy escalates his protest with Liz and Jenna call in a favor to solve a pesky Pete problem.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49255"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49256,
+          "url": "https://www.tvmaze.com/episodes/49256/30-rock-6x04-the-ballad-of-kenneth-parcell",
+          "name": "The Ballad of Kenneth Parcell",
+          "season": 6,
+          "number": 4,
+          "type": "regular",
+          "airdate": "2012-01-26",
+          "airtime": "21:00",
+          "airstamp": "2012-01-27T02:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.3
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508626.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508626.jpg"
+          },
+          "summary": "<p>Jenna, Liz, Jack and Tracy all get a new appreciation for the meaning of friendship.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49256"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49257,
+          "url": "https://www.tvmaze.com/episodes/49257/30-rock-6x05-today-you-are-a-man",
+          "name": "Today You Are a Man",
+          "season": 6,
+          "number": 5,
+          "type": "regular",
+          "airdate": "2012-02-02",
+          "airtime": "20:00",
+          "airstamp": "2012-02-03T01:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.4
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508627.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508627.jpg"
+          },
+          "summary": "<p>Jack and Liz battle over her employment contract; Kenneth bolts from TGS for a new page assignment; Jenna and Tracy start moonlighting.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49257"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49258,
+          "url": "https://www.tvmaze.com/episodes/49258/30-rock-6x06-hey-baby-whats-wrong-part-1",
+          "name": "Hey, Baby, What's Wrong: Part 1",
+          "season": 6,
+          "number": 6,
+          "type": "regular",
+          "airdate": "2012-02-09",
+          "airtime": "20:00",
+          "airstamp": "2012-02-10T01:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508628.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508628.jpg"
+          },
+          "summary": "<p>On Valentine's Day, Liz and Criss brave a trip to Ikea; Avery's mother and Jack have a dalliance.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49258"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49259,
+          "url": "https://www.tvmaze.com/episodes/49259/30-rock-6x07-hey-baby-whats-wrong-part-2",
+          "name": "Hey, Baby, What's Wrong: Part 2",
+          "season": 6,
+          "number": 7,
+          "type": "regular",
+          "airdate": "2012-02-09",
+          "airtime": "20:30",
+          "airstamp": "2012-02-10T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.4
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508629.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508629.jpg"
+          },
+          "summary": "<p>On Valentine's Day, Liz and Criss brave a trip to Ikea; Avery's mother and Jack have a dalliance.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49259"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49260,
+          "url": "https://www.tvmaze.com/episodes/49260/30-rock-6x08-the-tuxedo-begins",
+          "name": "The Tuxedo Begins",
+          "season": 6,
+          "number": 8,
+          "type": "regular",
+          "airdate": "2012-02-16",
+          "airtime": "20:00",
+          "airstamp": "2012-02-17T01:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.1
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508630.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508630.jpg"
+          },
+          "summary": "<p>Liz discovers she must break social rules to achieve her goals; a mugging forces Jack to fight for rich people's rights.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49260"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49261,
+          "url": "https://www.tvmaze.com/episodes/49261/30-rock-6x09-leap-day",
+          "name": "Leap Day",
+          "season": 6,
+          "number": 9,
+          "type": "regular",
+          "airdate": "2012-02-23",
+          "airtime": "20:00",
+          "airstamp": "2012-02-24T01:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.8
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508631.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508631.jpg"
+          },
+          "summary": "<p>The spirit of Leap Day overtakes TGS, with lessons for everyone.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49261"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49262,
+          "url": "https://www.tvmaze.com/episodes/49262/30-rock-6x10-alexis-goodlooking-and-the-case-of-the-missing-whisky",
+          "name": "Alexis Goodlooking and the Case of the Missing Whisky",
+          "season": 6,
+          "number": 10,
+          "type": "regular",
+          "airdate": "2012-03-01",
+          "airtime": "20:00",
+          "airstamp": "2012-03-02T01:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.7
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508632.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508632.jpg"
+          },
+          "summary": "<p>Liz and Frank start \"dating\"; Jenna and Tracy tap into their inner cops; Jack molds Kenneth into a young corporate climber.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49262"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49263,
+          "url": "https://www.tvmaze.com/episodes/49263/30-rock-6x11-standards-and-practises",
+          "name": "Standards and Practises",
+          "season": 6,
+          "number": 11,
+          "type": "regular",
+          "airdate": "2012-03-08",
+          "airtime": "20:00",
+          "airstamp": "2012-03-09T01:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.7
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508633.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508633.jpg"
+          },
+          "summary": "<p>Kenneth puts new restrictions on TGS programming, while Jack meets his nemesis.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49263"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49264,
+          "url": "https://www.tvmaze.com/episodes/49264/30-rock-6x12-st-patricks-day",
+          "name": "St. Patrick's Day",
+          "season": 6,
+          "number": 12,
+          "type": "regular",
+          "airdate": "2012-03-15",
+          "airtime": "20:30",
+          "airstamp": "2012-03-16T00:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.3
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508634.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508634.jpg"
+          },
+          "summary": "<p>St. Patrick's Day isn't complete without ex-boyfriends, strategic board games and big green Hulk gloves.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49264"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49265,
+          "url": "https://www.tvmaze.com/episodes/49265/30-rock-6x13-grandmentor",
+          "name": "Grandmentor",
+          "season": 6,
+          "number": 13,
+          "type": "regular",
+          "airdate": "2012-03-22",
+          "airtime": "20:30",
+          "airstamp": "2012-03-23T00:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.5
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508635.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508635.jpg"
+          },
+          "summary": "<p>Liz mentors Hazel in the ways of show business.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49265"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49266,
+          "url": "https://www.tvmaze.com/episodes/49266/30-rock-6x14-kidnapped-by-danger",
+          "name": "Kidnapped by Danger",
+          "season": 6,
+          "number": 14,
+          "type": "regular",
+          "airdate": "2012-03-22",
+          "airtime": "21:00",
+          "airstamp": "2012-03-23T01:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.9
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508636.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508636.jpg"
+          },
+          "summary": "<p>Diana, Avery's mother, arrives to oversee the film of her daughter's life.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49266"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49267,
+          "url": "https://www.tvmaze.com/episodes/49267/30-rock-6x15-the-shower-principle",
+          "name": "The Shower Principle",
+          "season": 6,
+          "number": 15,
+          "type": "regular",
+          "airdate": "2012-03-29",
+          "airtime": "20:30",
+          "airstamp": "2012-03-30T00:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.5
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508637.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508637.jpg"
+          },
+          "summary": "<p>Liz's life and Jack's inspiration are stagnant.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49267"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49268,
+          "url": "https://www.tvmaze.com/episodes/49268/30-rock-6x16-nothing-left-to-lose",
+          "name": "Nothing Left to Lose",
+          "season": 6,
+          "number": 16,
+          "type": "regular",
+          "airdate": "2012-04-05",
+          "airtime": "20:30",
+          "airstamp": "2012-04-06T00:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.6
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508638.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508638.jpg"
+          },
+          "summary": "<p>A regained sense of smell conjures powerful emotions for Tracy.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49268"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49269,
+          "url": "https://www.tvmaze.com/episodes/49269/30-rock-6x17-meet-the-woggels",
+          "name": "Meet the Woggels",
+          "season": 6,
+          "number": 17,
+          "type": "regular",
+          "airdate": "2012-04-12",
+          "airtime": "20:30",
+          "airstamp": "2012-04-13T00:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.3
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508639.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508639.jpg"
+          },
+          "summary": "<p>Jack's mother ruins his couch factory opening, while Jenna crosses another sexual adventure off her list and Tracy solves a crisis with his son.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49269"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49270,
+          "url": "https://www.tvmaze.com/episodes/49270/30-rock-6x18-murphy-brown-lied-to-us",
+          "name": "Murphy Brown Lied to Us",
+          "season": 6,
+          "number": 18,
+          "type": "regular",
+          "airdate": "2012-04-19",
+          "airtime": "20:30",
+          "airstamp": "2012-04-20T00:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.4
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508640.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508640.jpg"
+          },
+          "summary": "<p>Jack sets Liz up on a date while Jenna stages a public meltdown to win back Paul.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49270"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49271,
+          "url": "https://www.tvmaze.com/episodes/49271/30-rock-6x19-live-from-studio-6h",
+          "name": "Live from Studio 6H",
+          "season": 6,
+          "number": 19,
+          "type": "regular",
+          "airdate": "2012-04-26",
+          "airtime": "20:30",
+          "airstamp": "2012-04-27T00:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.7
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508641.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508641.jpg"
+          },
+          "summary": "<p>When Jack tries to shut down live production of TGS, Kenneth teaches them all the lessons of live TV.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49271"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49272,
+          "url": "https://www.tvmaze.com/episodes/49272/30-rock-6x20-queen-of-jordan-2-the-mystery-of-the-phantom-pooper",
+          "name": "Queen of Jordan 2: The Mystery of the Phantom Pooper",
+          "season": 6,
+          "number": 20,
+          "type": "regular",
+          "airdate": "2012-05-03",
+          "airtime": "20:30",
+          "airstamp": "2012-05-04T00:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.6
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508642.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508642.jpg"
+          },
+          "summary": "<p>Angie's reality show returns, while Jack and Diana await Avery's arrival.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49272"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49273,
+          "url": "https://www.tvmaze.com/episodes/49273/30-rock-6x21-the-return-of-avery-jessup",
+          "name": "The Return of Avery Jessup",
+          "season": 6,
+          "number": 21,
+          "type": "regular",
+          "airdate": "2012-05-10",
+          "airtime": "20:30",
+          "airstamp": "2012-05-11T00:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.8
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508643.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508643.jpg"
+          },
+          "summary": "<p>Avery returns from North Korea with a stranger in tow; Liz and Criss struggle with their gender roles.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49273"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49274,
+          "url": "https://www.tvmaze.com/episodes/49274/30-rock-6x22-what-will-happen-to-the-gang-next-year",
+          "name": "What Will Happen to the Gang Next Year?",
+          "season": 6,
+          "number": 22,
+          "type": "regular",
+          "airdate": "2012-05-17",
+          "airtime": "20:30",
+          "airstamp": "2012-05-18T00:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.7
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508644.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508644.jpg"
+          },
+          "summary": "<p>Jack and Avery renew vows, while Criss tries to prove to Liz that he's the one.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49274"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49275,
+          "url": "https://www.tvmaze.com/episodes/49275/30-rock-7x01-the-beginning-of-the-end",
+          "name": "The Beginning of the End",
+          "season": 7,
+          "number": 1,
+          "type": "regular",
+          "airdate": "2012-10-04",
+          "airtime": "20:00",
+          "airstamp": "2012-10-05T00:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.5
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508645.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508645.jpg"
+          },
+          "summary": "<p>Liz discovers Jack's plan to ruin the network, while Hazel hatches an evil plan of her own and Jenna conscripts Liz into being her maid of honor.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49275"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49276,
+          "url": "https://www.tvmaze.com/episodes/49276/30-rock-7x02-governor-dunston",
+          "name": "Governor Dunston",
+          "season": 7,
+          "number": 2,
+          "type": "regular",
+          "airdate": "2012-10-11",
+          "airtime": "20:00",
+          "airstamp": "2012-10-12T00:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.8
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508646.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508646.jpg"
+          },
+          "summary": "<p>Liz must balance her new professional success with her love life, all while helping Jack bring down NBC.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49276"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49277,
+          "url": "https://www.tvmaze.com/episodes/49277/30-rock-7x03-stride-of-pride",
+          "name": "Stride of Pride",
+          "season": 7,
+          "number": 3,
+          "type": "regular",
+          "airdate": "2012-10-18",
+          "airtime": "20:00",
+          "airstamp": "2012-10-19T00:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.1
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508647.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508647.jpg"
+          },
+          "summary": "<p>Jack takes his dating game up a notch, while Liz clashes with Tracy over an offensive tweet.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49277"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49278,
+          "url": "https://www.tvmaze.com/episodes/49278/30-rock-7x04-unwindulax",
+          "name": "Unwindulax",
+          "season": 7,
+          "number": 4,
+          "type": "regular",
+          "airdate": "2012-10-25",
+          "airtime": "20:00",
+          "airstamp": "2012-10-26T00:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508648.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508648.jpg"
+          },
+          "summary": "<p>Jack and Liz go head to head as the political race heats up.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49278"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49279,
+          "url": "https://www.tvmaze.com/episodes/49279/30-rock-7x05-theres-no-i-in-america",
+          "name": "There's No I in America",
+          "season": 7,
+          "number": 5,
+          "type": "regular",
+          "airdate": "2012-10-31",
+          "airtime": "20:00",
+          "airstamp": "2012-11-01T00:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.6
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508649.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508649.jpg"
+          },
+          "summary": "<p>Realizing that Jenna could decide the Presidential election, Liz and Jack stage a debate to win her support and her followers.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49279"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49280,
+          "url": "https://www.tvmaze.com/episodes/49280/30-rock-7x06-aunt-phatso-vs-jack-donaghy",
+          "name": "Aunt Phatso vs. Jack Donaghy",
+          "season": 7,
+          "number": 6,
+          "type": "regular",
+          "airdate": "2012-11-15",
+          "airtime": "20:00",
+          "airstamp": "2012-11-16T01:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.4
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508650.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508650.jpg"
+          },
+          "summary": "<p>As Hazel schemes to become a TGS star, Jack and Tracy spar over Tracy's latest movie.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49280"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49281,
+          "url": "https://www.tvmaze.com/episodes/49281/30-rock-7x07-mazel-tov-dummies",
+          "name": "Mazel Tov, Dummies!",
+          "season": 7,
+          "number": 7,
+          "type": "regular",
+          "airdate": "2012-11-29",
+          "airtime": "20:00",
+          "airstamp": "2012-11-30T01:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.6
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508651.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508651.jpg"
+          },
+          "summary": "<p>Ready to adopt a baby, Liz and Criss try to plan a simple wedding... until things spin out of control.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49281"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49282,
+          "url": "https://www.tvmaze.com/episodes/49282/30-rock-7x08-my-whole-life-is-thunder",
+          "name": "My Whole Life Is Thunder",
+          "season": 7,
+          "number": 8,
+          "type": "regular",
+          "airdate": "2012-12-06",
+          "airtime": "20:00",
+          "airstamp": "2012-12-07T01:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.8
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508652.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508652.jpg"
+          },
+          "summary": "<p>As Jenna exacts revenge on Liz for her surprise wedding, Jack struggles once again to please his mother.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49282"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49283,
+          "url": "https://www.tvmaze.com/episodes/49283/30-rock-7x09-game-over",
+          "name": "Game Over",
+          "season": 7,
+          "number": 9,
+          "type": "regular",
+          "airdate": "2013-01-10",
+          "airtime": "20:00",
+          "airstamp": "2013-01-11T01:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.6
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508653.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508653.jpg"
+          },
+          "summary": "<p>Jack spars with Kaylie Hooper over ultimate control of NBC.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49283"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49284,
+          "url": "https://www.tvmaze.com/episodes/49284/30-rock-7x10-florida",
+          "name": "Florida",
+          "season": 7,
+          "number": 10,
+          "type": "regular",
+          "airdate": "2013-01-17",
+          "airtime": "20:00",
+          "airstamp": "2013-01-18T01:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 7.7
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508654.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508654.jpg"
+          },
+          "summary": "<p>As Jack and Liz travel to Florida to wrap up his late mother's affairs, Jenna and Tracy take over TGS.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49284"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49285,
+          "url": "https://www.tvmaze.com/episodes/49285/30-rock-7x11-a-goons-deed-in-a-weary-world",
+          "name": "A Goon's Deed in a Weary World",
+          "season": 7,
+          "number": 11,
+          "type": "regular",
+          "airdate": "2013-01-24",
+          "airtime": "20:00",
+          "airstamp": "2013-01-25T01:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.2
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508655.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508655.jpg"
+          },
+          "summary": "<p>As Liz and Criss' new children arrive, Jack seeks a new head of NBC and TGS teeters on the edge.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49285"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49286,
+          "url": "https://www.tvmaze.com/episodes/49286/30-rock-7x12-hogcock",
+          "name": "Hogcock!",
+          "season": 7,
+          "number": 12,
+          "type": "regular",
+          "airdate": "2013-01-31",
+          "airtime": "20:00",
+          "airstamp": "2013-02-01T01:00:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 8.5
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508656.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508656.jpg"
+          },
+          "summary": "<p>Liz rallies the team to produce one final farewell production.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49286"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        },
+        {
+          "id": 49287,
+          "url": "https://www.tvmaze.com/episodes/49287/30-rock-7x13-last-lunch",
+          "name": "Last Lunch",
+          "season": 7,
+          "number": 13,
+          "type": "regular",
+          "airdate": "2013-01-31",
+          "airtime": "20:30",
+          "airstamp": "2013-02-01T01:30:00+00:00",
+          "runtime": 30,
+          "rating": {
+            "average": 9
+          },
+          "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508657.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508657.jpg"
+          },
+          "summary": "<p>Liz rallies the team to produce one final farewell production.</p>",
+          "_links": {
+            "self": {
+              "href": "https://api.tvmaze.com/episodes/49287"
+            },
+            "show": {
+              "href": "https://api.tvmaze.com/shows/537"
+            }
+          }
+        }
+
+]
+}
+    
+  

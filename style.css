@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+    background: black;
+}
+
+h1 {
+    text-align: center;
+    margin: 10px;
+    padding: 5px;
+    background: white;
+}
+
+.column {
+    border: 2px solid black;
+    float: left;
+    margin: 10px;
+    padding: 5px;
+    background: white;
+}
+
+.middle {
+    width: 50%;
+}
+
+.left, .right {
+    width: 25%;
+}
