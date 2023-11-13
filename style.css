@@ -25,3 +25,7 @@ h1 {
 .left, .right {
     width: 25%;
 }
+
+.left img {
+    width: 75%;
+}
