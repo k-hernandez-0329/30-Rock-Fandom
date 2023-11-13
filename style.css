@@ -24,6 +24,8 @@ h1 {
 
 .left, .right {
     width: 25%;
+    height: 750px;
+    overflow-y: scroll;
 }
 
 .left img {
