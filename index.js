@@ -2,10 +2,12 @@ const seasonAPI = 'http://localhost:3000/seasons'
 
 const episodeAPI = 'http://localhost:3000/episodes'
 
+let newEpisodeList = []
+
 fetch(seasonAPI)
     .then(res => res.json())
     .then(seasonList => {
-        renderAllSeasons(seasonList)
+         renderAllSeasons(seasonList)
         selectSeason(seasonList[0])
     })
 
@@ -41,10 +43,17 @@ function selectSeason(season) {
 
     fetch(episodeAPI)
         .then(res => res.json())
-        .then(episodeList => renderEpisodeList(episodeList))
+        .then(episodeList => {
+            newEpisodeList = episodeList
+            renderEpisodeList(newEpisodeList)})
 
-    function renderEpisodeList(episodeList) {
-        episodeList.forEach(episode => renderOneEpisode(episode))
+    function renderEpisodeList(newEpisodeList) {
+        newEpisodeList.forEach(episode => { 
+            const newKey = "onwatchlist";
+            const newValue = false;
+            episode[newKey] = newValue;
+            renderOneEpisode(episode)})
+            
     }
 
     function renderOneEpisode(episode) {
@@ -52,7 +61,7 @@ function selectSeason(season) {
         const selectedSeason = document.querySelector('.selected-season')
         const episodeList = document.getElementById('episode-list')
         const episodeName = document.createElement('li')
-
+        episodeName.addEventListener('click',(e) => addWatchlist(episode))
 
         if (parseInt(episode.season, 10) === parseInt(selectedSeason.id, 10)) {
 
@@ -64,7 +73,23 @@ function selectSeason(season) {
 
         }
 
+    function addWatchlist(episode){
+       
+      if (episode.onwatchlist === false){
+        const watchList = document.getElementById("watchlist")
+        const episodeName = document.createElement('li')
+        episodeName.textContent = episode.name
+        watchList.append(episodeName)
+        episode.onwatchlist = true
+      }
+      
+      if(episode.onwatchlist === true){
+        alert ("Good God Lemon! You already added this to Watchlist!")
+      }
     }
+
+    }
+
 
 }
 
