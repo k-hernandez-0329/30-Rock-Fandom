@@ -83,7 +83,7 @@ function selectSeason(season) {
         episode.onwatchlist = true
       }
       
-      if(episode.onwatchlist === true){
+      else if(episode.onwatchlist === true) {
         alert ("Good God Lemon! You already added this to Watchlist!")
       }
     }
@@ -91,5 +91,5 @@ function selectSeason(season) {
     }
 
 
-}
 
+}
