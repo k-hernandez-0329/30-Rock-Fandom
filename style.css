@@ -18,15 +18,29 @@ h1 {
     padding: 5px;
     background: black;
     color: yellow;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
 }
 
 h3 {
     text-align: center;
+    font-weight: bold;
 }
 
-.middle ul {
+ul.episodes {
     list-style-position: inside;
     list-style: "🌭  ";
+    margin-left: 5px;
+}
+
+ul.comments {
+    list-style-position: inside;
+    list-style: "🥨  ";
     margin-left: 5px;
 }
 

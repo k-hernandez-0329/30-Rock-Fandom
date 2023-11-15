@@ -61,7 +61,6 @@ function selectSeason(season) {
 
     commentForm.addEventListener('submit', (e) => {
         e.preventDefault()
-        console.log(e.target)
 
         const commentList = document.getElementById('comment-list')
         const newComment = document.createElement('li')
