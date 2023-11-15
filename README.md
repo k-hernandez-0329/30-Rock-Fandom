@@ -3,7 +3,7 @@
 ## User Stories
      - Upon page load
         - See posters for each season on left navbar
-        - See season's info in the main section (season number, description, top qoutes, episode list, comment section)
+        - See season's info in the main section (season number, description, episode list, comment section)
         - See my watchlist on the right navbar
 
 

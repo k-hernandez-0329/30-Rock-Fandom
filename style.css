@@ -1,19 +1,45 @@
+* {
+    cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🧀</text></svg>") 16 0,auto; 
+}
+
+
 body {
-    font-family: sans-serif;
+    font-family: 'Red Hat Display', sans-serif;
     background: black;
+    background-image: url('https://static.vecteezy.com/system/resources/previews/000/619/069/original/vector-city-skylines-at-night-urban-scene.jpg');
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 h1 {
     text-align: center;
+    font-size: 60px;
     margin: 10px;
     padding: 5px;
-    background: white;
+    background: black;
+    color: yellow;
+}
+
+h3 {
+    text-align: center;
+}
+
+.middle ul {
+    list-style-position: inside;
+    list-style: "🌭  ";
+    margin-left: 5px;
+}
+
+.right ul {
+    list-style-position: inside;
+    list-style: "🍕  ";
+    margin-left: 5px;
 }
 
 .column {
     border: 2px solid black;
     float: left;
-    margin: 10px;
+    margin: 5px;
     padding: 5px;
     background: white;
 }
@@ -23,11 +49,22 @@ h1 {
 }
 
 .left, .right {
-    width: 25%;
+    width: 22%;
     height: 750px;
     overflow-y: scroll;
 }
 
 .left img {
-    width: 75%;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.middle img {
+    width: 250px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
