@@ -20,12 +20,21 @@ function renderAllSeasons(seasonList) {
 function renderOneSeason(season) {
 
     const seasonList = document.getElementById('season-list')
-    const seasonLink = document.createElement('img')
+    const posterDiv = document.createElement('div')
+    const seasonPoster = document.createElement('img')
+    const posterCaption = document.createElement('span')
 
-    seasonLink.src = season.image.medium
-    seasonLink.addEventListener('click', (e) => selectSeason(season))
+    seasonPoster.src = season.image.medium
+    seasonPoster.addEventListener('click', (e) => selectSeason(season))
 
-    seasonList.append(seasonLink)
+    posterCaption.textContent = `Season ${season.number}`
+
+    posterDiv.className = 'poster-div'
+    posterDiv.append(seasonPoster)
+    posterDiv.append(posterCaption)
+
+    seasonList.append(posterDiv)
+
 }
 
 function selectSeason(season) {
@@ -35,6 +44,9 @@ function selectSeason(season) {
     const seasonPoster = document.getElementById('season-poster')
     const seasonSummary = document.getElementById('season-summary')
     const episodeList = document.getElementById('episode-list')
+
+    const middleDiv = document.querySelector('.middle')
+    middleDiv.style.border = `5px solid ${season.color}`
 
     selectedSeason.id = season.number
     seasonName.textContent = `30 Rock: Season ${season.number}`
@@ -59,7 +71,9 @@ function selectSeason(season) {
     commentForm.append(textArea)
     commentForm.append(submitButton)
 
-    commentForm.addEventListener('submit', (e) => {
+    commentForm.addEventListener('submit', (e) => submitComment(e))
+    
+    function submitComment(e){
         e.preventDefault()
 
         const commentList = document.getElementById('comment-list')
@@ -70,7 +84,7 @@ function selectSeason(season) {
         commentList.append(newComment)
 
         e.target.reset()
-    })
+    }
 
 
 

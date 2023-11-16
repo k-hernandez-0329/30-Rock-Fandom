@@ -1,6 +1,7 @@
 
 { "seasons": [
     {
+      "color": "#D4D955",
       "id": 2163,
       "url": "https://www.tvmaze.com/seasons/2163/30-rock-season-1",
       "number": 1,
@@ -31,6 +32,7 @@
       }
     },
     {
+      "color": "#F21B42",
       "id": 2164,
       "url": "https://www.tvmaze.com/seasons/2164/30-rock-season-2",
       "number": 2,
@@ -61,6 +63,7 @@
       }
     },
     {
+      "color": "#0597F2",
       "id": 2165,
       "url": "https://www.tvmaze.com/seasons/2165/30-rock-season-3",
       "number": 3,
@@ -91,6 +94,7 @@
       }
     },
     {
+      "color": "#F2BE22",
       "id": 2166,
       "url": "https://www.tvmaze.com/seasons/2166/30-rock-season-4",
       "number": 4,
@@ -121,6 +125,7 @@
       }
     },
     {
+      "color": "#67308C",
       "id": 2167,
       "url": "https://www.tvmaze.com/seasons/2167/30-rock-season-5",
       "number": 5,
@@ -151,6 +156,7 @@
       }
     },
     {
+      "color": "#D9328E",
       "id": 2168,
       "url": "https://www.tvmaze.com/seasons/2168/30-rock-season-6",
       "number": 6,
@@ -181,6 +187,7 @@
       }
     },
     {
+      "color": "#038C65",
       "id": 2169,
       "url": "https://www.tvmaze.com/seasons/2169/30-rock-season-7",
       "number": 7,

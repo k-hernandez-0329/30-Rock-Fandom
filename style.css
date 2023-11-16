@@ -11,43 +11,39 @@ body {
     background-attachment: fixed;
 }
 
+.poster-div {
+    text-align: center;
+    font-size: 14px;
+}
+
+/* Headings */
+
 h1 {
     text-align: center;
     font-size: 60px;
     margin: 10px;
     padding: 5px;
     background: black;
-    color: yellow;
     font-weight: normal;
 }
 
-h2 {
-    font-size: 32px;
+.green {
+    color: #D4D955;
+}
+
+.white {
+    color: white;
+}
+
+h2, h3 {
     text-align: center;
     font-weight: bold;
 }
 
-h3 {
-    text-align: center;
-    font-weight: bold;
-}
+/* Column divs */
 
-ul.episodes {
-    list-style-position: inside;
-    list-style: "🌭  ";
-    margin-left: 5px;
-}
-
-ul.comments {
-    list-style-position: inside;
-    list-style: "🥨  ";
-    margin-left: 5px;
-}
-
-.right ul {
-    list-style-position: inside;
-    list-style: "🍕  ";
-    margin-left: 5px;
+.row {
+    width: 100%;
 }
 
 .column {
@@ -63,16 +59,17 @@ ul.comments {
 }
 
 .left, .right {
-    width: 22%;
+    width: 21%;
     height: 750px;
     overflow-y: scroll;
 }
 
 .left img {
-    width: 200px;
+    width: 160px;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 20px;
 }
 
 .middle img {
@@ -81,4 +78,24 @@ ul.comments {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+
+/* Lists */
+
+.episodes {
+    list-style-position: inside;
+    list-style: "🌭  ";
+    margin-left: 5px;
+}
+
+ul.comments {
+    list-style-position: inside;
+    list-style: "🥨  ";
+    margin-left: 5px;
+}
+
+.right ul {
+    list-style-position: inside;
+    list-style: "🍕  ";
 }
