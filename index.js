@@ -75,7 +75,6 @@ function selectSeason(season) {
     
     function submitComment(e){
         e.preventDefault()
-        console.log(e.target)
 
         const commentList = document.getElementById('comment-list')
         const newComment = document.createElement('li')
