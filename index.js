@@ -20,12 +20,21 @@ function renderAllSeasons(seasonList) {
 function renderOneSeason(season) {
 
     const seasonList = document.getElementById('season-list')
-    const seasonLink = document.createElement('img')
+    const posterDiv = document.createElement('div')
+    const seasonPoster = document.createElement('img')
+    const posterCaption = document.createElement('span')
 
-    seasonLink.src = season.image.medium
-    seasonLink.addEventListener('click', (e) => selectSeason(season))
+    seasonPoster.src = season.image.medium
+    seasonPoster.addEventListener('click', (e) => selectSeason(season))
 
-    seasonList.append(seasonLink)
+    posterCaption.textContent = `Season ${season.number}`
+
+    posterDiv.className = 'poster-div'
+    posterDiv.append(seasonPoster)
+    posterDiv.append(posterCaption)
+
+    seasonList.append(posterDiv)
+
 }
 
 function selectSeason(season) {

@@ -11,6 +11,11 @@ body {
     background-attachment: fixed;
 }
 
+.poster-div {
+    text-align: center;
+    font-size: 14px;
+}
+
 /* Headings */
 
 h1 {
@@ -64,7 +69,7 @@ h2, h3 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 15px;
+    margin-top: 20px;
 }
 
 .middle img {
