@@ -71,9 +71,7 @@ function selectSeason(season) {
     commentForm.append(textArea)
     commentForm.append(submitButton)
 
-    commentForm.addEventListener('submit', (e) => submitComment(e))
-    
-    function submitComment(e){
+    commentForm.addEventListener('submit', (e) => {
         e.preventDefault()
 
         const commentList = document.getElementById('comment-list')
@@ -85,6 +83,7 @@ function selectSeason(season) {
 
         e.target.reset()
     }
+    )
 
 
 
