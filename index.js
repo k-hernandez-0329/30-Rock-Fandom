@@ -36,6 +36,9 @@ function selectSeason(season) {
     const seasonSummary = document.getElementById('season-summary')
     const episodeList = document.getElementById('episode-list')
 
+    const middleDiv = document.querySelector('.middle')
+    middleDiv.style.border = `5px solid ${season.color}`
+
     selectedSeason.id = season.number
     seasonName.textContent = `30 Rock: Season ${season.number}`
     seasonPoster.src = season.image.original

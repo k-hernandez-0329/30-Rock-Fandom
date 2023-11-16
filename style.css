@@ -11,29 +11,34 @@ body {
     background-attachment: fixed;
 }
 
+/* Headings */
+
 h1 {
     text-align: center;
     font-size: 60px;
     margin: 10px;
     padding: 5px;
     background: black;
-    color: yellow;
+    font-weight: normal;
 }
 
-h3 {
+.green {
+    color: #D4D955;
+}
+
+.white {
+    color: white;
+}
+
+h2, h3 {
     text-align: center;
+    font-weight: bold;
 }
 
-.middle ul {
-    list-style-position: inside;
-    list-style: "🌭  ";
-    margin-left: 5px;
-}
+/* Column divs */
 
-.right ul {
-    list-style-position: inside;
-    list-style: "🍕  ";
-    margin-left: 5px;
+.row {
+    width: 100%;
 }
 
 .column {
@@ -49,16 +54,17 @@ h3 {
 }
 
 .left, .right {
-    width: 22%;
+    width: 21%;
     height: 750px;
     overflow-y: scroll;
 }
 
 .left img {
-    width: 200px;
+    width: 160px;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 15px;
 }
 
 .middle img {
@@ -68,3 +74,19 @@ h3 {
     margin-left: auto;
     margin-right: auto;
 }
+
+
+/* Lists */
+
+.middle ul {
+    list-style-position: inside;
+    list-style: "🌭  ";
+    margin-left: 5px;
+}
+
+.right ul {
+    list-style-position: inside;
+    list-style: "🍕  ";
+    margin-left: 5px;
+}
+
