@@ -21,13 +21,21 @@ function renderOneSeason(season) {
 
     const seasonList = document.getElementById('season-list')
     const posterDiv = document.createElement('div')
+
     const seasonPoster = document.createElement('img')
     const posterCaption = document.createElement('span')
+
+    posterDiv.addEventListener("mouseover", (e) => {
+        if (posterCaption.textContent === seasonName)
+       { posterCaption.textContent = "Pick me!" }
+       else {posterCaption.textContent = seasonName}
+    });
 
     seasonPoster.src = season.image.medium
     seasonPoster.addEventListener('click', (e) => selectSeason(season))
 
-    posterCaption.textContent = `Season ${season.number}`
+    const seasonName = `Season ${season.number}`
+    posterCaption.textContent = seasonName
 
     posterDiv.className = 'poster-div'
     posterDiv.append(seasonPoster)
@@ -59,11 +67,12 @@ function selectSeason(season) {
     
     commentForm.innerHTML = ''
 
-    const textArea = document.createElement('textarea')
+    const textArea = document.createElement('input')
     const submitButton = document.createElement('input')
 
+    textArea.type = "textarea"
     textArea.name = 'comment'
-    textArea.placeholder = 'Add comment here'
+    textArea.placeholder = 'bird internet...'
 
     submitButton.type = 'submit'
     submitButton.textContent = 'Comment'
@@ -128,6 +137,13 @@ function selectSeason(season) {
                 const watchList = document.getElementById("watchlist")
                 const episodeName = document.createElement('li')
                 episodeName.textContent = `Season ${episode.season}: ${episode.name}`
+                episodeName.addEventListener('click', (e) => {
+
+
+                    if (confirm('Blerg! Shut it down!')) 
+                    {e.target.remove();}
+                    else { }
+                })
                 watchList.append(episodeName)
                 episode.onwatchlist = true
             }
@@ -140,5 +156,4 @@ function selectSeason(season) {
     }
 
 }
-
 

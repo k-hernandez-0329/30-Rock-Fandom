@@ -1,5 +1,5 @@
 * {
-    cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🧀</text></svg>") 16 0,auto; 
+    cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🧀</text></svg>") 16 0, auto;
 }
 
 
@@ -56,6 +56,10 @@ h2, h3 {
 
 .middle {
     width: 50%;
+    background-image: url('images/hotdogcart.jpg');
+    background-repeat: no-repeat;
+    background-position: 300px 700px;
+    background-attachment: scroll;
 }
 
 .left, .right {
@@ -80,6 +84,13 @@ h2, h3 {
     margin-right: auto;
 }
 
+.right {
+    background-image: url('images/blueguy.png');
+    background-repeat: no-repeat;
+    background-position: -20px 570px;
+    background-attachment: scroll;
+}
+
 
 /* Lists */
 
@@ -98,4 +109,29 @@ ul.comments {
 .right ul {
     list-style-position: inside;
     list-style: "🍕  ";
+}
+
+.right li {
+    background: rgba(255, 255, 255, 0.514);
+}
+
+/* Comment Form */
+
+form { 
+    width: 40%;
+    padding: 10px;
+}
+
+input[type="textarea"] {
+    border: 2px solid black;
+    margin-bottom: 15px;
+    font-family: 'Red Hat Display', sans-serif;
+    width: 200px;
+    height: 100px;
+}
+
+input[type="submit"] {
+    border: 2px solid black;
+    background: #D4D955;
+    font-family: 'Red Hat Display', sans-serif;
 }
