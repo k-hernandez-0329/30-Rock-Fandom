@@ -83,15 +83,19 @@ h2, h3 {
 
 /* Lists */
 
-.middle ul {
+.episodes {
     list-style-position: inside;
     list-style: "🌭  ";
+    margin-left: 5px;
+}
+
+ul.comments {
+    list-style-position: inside;
+    list-style: "🥨  ";
     margin-left: 5px;
 }
 
 .right ul {
     list-style-position: inside;
     list-style: "🍕  ";
-    margin-left: 5px;
 }
-
