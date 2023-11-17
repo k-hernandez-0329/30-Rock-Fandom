@@ -53,8 +53,12 @@ function selectSeason(season) {
     const seasonSummary = document.getElementById('season-summary')
     const episodeList = document.getElementById('episode-list')
 
+    const leftDiv = document.querySelector('.left')
     const middleDiv = document.querySelector('.middle')
+    const rightDiv = document.querySelector('.right')
+    leftDiv.style.border = `5px solid ${season.color}`
     middleDiv.style.border = `5px solid ${season.color}`
+    rightDiv.style.border = `5px solid ${season.color}`
 
     selectedSeason.id = season.number
     seasonName.textContent = `30 Rock: Season ${season.number}`
@@ -91,9 +95,6 @@ function selectSeason(season) {
         episodeName.addEventListener('click', (e) => addWatchlist(episode))
 
         if (parseInt(episode.season, 10) === parseInt(selectedSeason.id, 10)) {
-
-            // console.log(episode.season)
-            // console.log(selectedSeason.id)
 
             episodeName.textContent = episode.name
             episodeList.append(episodeName)
