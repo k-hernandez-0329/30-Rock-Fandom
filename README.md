@@ -2,20 +2,20 @@
 
 ## User Stories
      - Upon page load
-        - See posters for each season on left navbar
-        - See season's info in the main section (season number, description, episode list, comment section)
+        - See posters for each season on the left navbar
+        - See the season's info in the main section (season number, description, episode list, comment section)
         - See my watchlist on the right navbar
 
 
-     - Upon clicking a poster from navbar
+     - Upon clicking a poster from the navbar
         - See a list of episodes by season
         - Add episodes to my watchlist
 
     
      - Upon clicking the Comment button
-        - Comment on my favorite episodes
+        - Make comments about my favorite episodes
 
-     - Upon clicking the Add to Watchlist button
+     - Upon clicking the episode from the main section
         - Adds episode to My Watchlist
 
 
