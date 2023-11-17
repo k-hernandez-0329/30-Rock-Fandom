@@ -63,38 +63,7 @@ function selectSeason(season) {
 
     episodeList.innerHTML = ''
 
-    const commentForm = document.getElementById('comment-form')
     
-    commentForm.innerHTML = ''
-
-    const textArea = document.createElement('input')
-    const submitButton = document.createElement('input')
-
-    textArea.type = "textarea"
-    textArea.name = 'comment'
-    textArea.placeholder = 'bird internet...'
-
-    submitButton.type = 'submit'
-    submitButton.textContent = 'Comment'
-
-    commentForm.append(textArea)
-    commentForm.append(submitButton)
-
-    commentForm.addEventListener('submit', (e) => {
-        e.preventDefault()
-
-        const commentList = document.getElementById('comment-list')
-        const newComment = document.createElement('li')
-
-        newComment.textContent = e.target.comment.value 
-
-        commentList.append(newComment)
-
-        e.target.reset()
-    }
-    )
-
-
 
 
     fetch(episodeAPI)
@@ -157,3 +126,19 @@ function selectSeason(season) {
 
 }
 
+ const commentForm = document.getElementById('comment-form')
+ const commentList = document.getElementById('comment-list')
+   
+    commentForm.addEventListener('submit', (e) => {
+        e.preventDefault()
+
+        
+        const newComment = document.createElement('li')
+        
+        
+        newComment.textContent = e.target.comment.value 
+        commentList.append(newComment)
+
+        e.target.reset()
+    }
+    )
